@@ -42,3 +42,7 @@ Release 03 introduced new originating agencies to this collection: **CIA**, **IC
 2. The MDR process is initiated by either a Congressional request, an internal review schedule, or an external request (typically not by individual FOIA but by aggregate AARO collection requirement).
 3. Redaction patterns differ by exemption: ==(b)(1) 1.4(a)== blacks out national-security operational detail; ==(b)(6)== and ==10 U.S.C. §130b== black out personnel-identifying detail.
 4. The release authority signature visible at the top of declassified pages is the final accountable official; the underlying review may have involved many cleared reviewers.
+
+## Prepublication review records
+
+- [[Source - DOW-UAP-PR20]] documents the DoD Office of Prepublication and Security Review clearance ("Cleared for Open Publication, 10 Mar 2026") for the USCENTCOM MDR 25-0094 through MDR 25-0099 tranche, recommended by MG Richard A. Harrison.

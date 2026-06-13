@@ -13,8 +13,8 @@ confidence: moderate
 
 ## Reasoning
 
-1. [[Incident - 2020-10 D58 Range Fouler SKELETON]] (F-16, DCA, Oct 2020): two metallic objects observed, ==noise jamming received by F-16 radar simultaneously with the visual contact==, objects then disappeared in 1/30 second.
-2. [[Incident - 2020-09 Strait of Hormuz D62 SKELETON]] (MQ-9, AREC, Sep 2020): two LOST LINK EMI events (11 min and 27 min) plus one UAP observation, all during the same 21-hour mission. Iranian air defense actively contesting the airspace.
+1. [[Incident - 2020-10 D58 Range Fouler]] (F-16, DCA, Oct 2020): two metallic objects observed, ==noise jamming received by F-16 radar simultaneously with the visual contact==, objects then disappeared in 1/30 second.
+2. [[Incident - 2020-09 Strait of Hormuz D62]] (MQ-9, AREC, Sep 2020): two LOST LINK EMI events (11 min and 27 min) plus one UAP observation, all during the same 21-hour mission. Iranian air defense actively contesting the airspace.
 3. [[Incident - 2023-02-21 Shaddadi F-15E]] (F-15E, DCA, Feb 2023): three minutes of MFT radar jamming on APG-82 ==one minute before== the visual sighting of three UAPs at FL240. The jamming was assessed in the same document as Turkish ground-based X-band, not UAP-caused, but the temporal co-occurrence is notable.
 
 ## Supporting incidents
@@ -50,8 +50,8 @@ When evaluating future UAP observations, ==EMI and C2 link data should be a firs
 
 ## Related
 
-- [[Incident - 2020-10 D58 Range Fouler SKELETON]]
-- [[Incident - 2020-09 Strait of Hormuz D62 SKELETON]]
+- [[Incident - 2020-10 D58 Range Fouler]]
+- [[Incident - 2020-09 Strait of Hormuz D62]]
 - [[Incident - 2023-02-21 Shaddadi F-15E]]
 - [[Sensor - APG-82 Radar]]
 - [[Phenom - No Radar Return]]

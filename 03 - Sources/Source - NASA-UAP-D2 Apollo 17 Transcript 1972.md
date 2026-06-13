@@ -50,3 +50,4 @@ NASA air-to-ground voice transcription from Apollo 17 mission. The transcript co
 - Platform: [[Platform - Apollo CSM]]
 - Witnesses: [[Witness - Apollo 17 Crew]]
 - Phenomenology: [[Phenom - Apollo Cosmic Ray Phosphenes]] | [[Phenom - Transient Lunar Phenomena]]
+- Companion imagery: [[Source - NASA-UAP-VM Series Apollo 12 and 17]]

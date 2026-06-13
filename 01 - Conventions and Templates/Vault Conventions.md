@@ -76,6 +76,7 @@ Every note has YAML frontmatter. Common keys:
 - `#aor/northcom`
 - `#aor/southcom`
 - `#aor/space`
+- `#aor/na` (no specific AOR; domestic, oceanic, or undisclosed)
 
 ### Platform
 
@@ -190,25 +191,4 @@ date_event:: 2023-02-21
 time_z:: 0025
 aor:: centcom
 country:: Syria
-location:: [[Location - Shaddadi]]
-mgrs:: 
-platform:: [[Platform - F-15E Strike Eagle]]
-unit:: [[Unit - 389 EFS]]
-objects_count:: 3
-shape:: round
-color:: white
-speed_kts:: 
-altitude_ft:: 24000
-duration_seconds:: 
-radar_return:: no
-iff_response:: no
-weather:: cloudy
-source:: [[Source - DOW-UAP-D19 Syria February 2023]]
-status:: unresolved
-```
-
-## Update cadence
-
-- [ ] Review this conventions note every time you add a new tag, folder, or template
-- [ ] Audit the tag list quarterly to merge duplicates
-- [ ] Rebuild the MOCs whenever the under
+location:: [[Location

@@ -7,19 +7,19 @@ release_date: 2026-03-20
 ---
 
 > [!NOTE]
-> Scaffolded source note created to resolve the link from [[Incident - 2020-08 Persian Gulf D60 SKELETON]]. Document-level metadata and full verbatim extraction are pending access to the source PDF; fields left blank are not yet in the vault record.
+> Source document for [[Incident - 2020-08 Persian Gulf D60]]. The PDF has been located and its text extracted into the linked incident note; key fields below are filled from that extraction. Some administrative fields remain redacted in the original.
 
 ## Document metadata
 
 release_authority:: USCENTCOM
 release_date:: 2026-03-20
 mdr_number:: 
-file_path:: `../DOW-UAP-D60 Persian Gulf August 2020.pdf`
+file_path:: `../DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.pdf`
 date_of_document:: 2020-08-08
 
 ## Summary
 
-Source document underlying [[Incident - 2020-08 Persian Gulf D60 SKELETON]] (event dated 2020-08-08), an observation in Persian Gulf. The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-08 Persian Gulf D60]] (event dated 2020-08-08), an observation in Persian Gulf. The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
 
 ## Key extractions
 
@@ -34,7 +34,7 @@ Source document underlying [[Incident - 2020-08 Persian Gulf D60 SKELETON]] (eve
 
 ## Related incidents
 
-- [[Incident - 2020-08 Persian Gulf D60 SKELETON]]
+- [[Incident - 2020-08 Persian Gulf D60]]
 
 ## Related entities
 

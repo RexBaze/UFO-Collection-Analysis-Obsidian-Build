@@ -54,7 +54,7 @@ It turns a pile of source PDFs — DoD/DOW mission reports, State Department cab
 Clone or download this repository, then in Obsidian choose **Open folder as vault** and point it at the repository root.
 
 ```bash
-git clone https://github.com/RexBaze/UFO-Collection-Analysis-Obsidian-Build.git
+git clone https://github.com/Rex-Dev66/UFO-Collection-Analysis-Obsidian-Build.git
 ```
 
 ### 2. Install the Dataview plugin (required for live tables)
@@ -137,8 +137,6 @@ If you fork this to add your own notes:
 
 ## License
 
-Released under the **GNU General Public License v3.0** — see [`LICENSE`](LICENSE).
-
-> Note: GPLv3 is designed for software. For a vault that is primarily prose notes and data, a content license such as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) may fit better — swap `LICENSE` if you'd prefer that.
+The notes and analysis in this repository are released under the **Creative Commons CC0 1.0 Universal** public-domain dedication — see [`LICENSE`](LICENSE). You are free to copy, modify, and reuse this material for any purpose, without permission or attribution.
 
 Underlying source documents are works of the U.S. government and were released to the public by the originating agencies; their status is governed by those releases, not by this repository's license.

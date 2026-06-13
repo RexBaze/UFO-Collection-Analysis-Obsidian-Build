@@ -1,0 +1,37 @@
+---
+title: Source - DOW-UAP-D18 Iraq December 2022
+date: 2026-06-12
+tags: [source, agency/dow, source/misrep, aor/centcom]
+type: source
+---
+
+> [!NOTE]
+> Source document for [[Incident - 2022-12 Iraq D18]]. The PDF has been located and its text extracted into the linked incident note; key fields below are filled from that extraction. Some administrative fields remain redacted in the original.
+
+## Document metadata
+
+release_authority:: USCENTCOM
+release_date:: 
+mdr_number:: 
+file_path:: `../DOW-UAP-D18-Mission-Report-Iraq-December-2022.pdf`
+date_of_document:: 2022-12
+
+## Summary
+
+Source document underlying [[Incident - 2022-12 Iraq D18]] (event dated 2022-12), an observation in Iraq. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+
+## Related incidents
+
+- [[Incident - 2022-12 Iraq D18]]
+
+## Related entities
+
+- Location: [[Location - Iraq]]
+- Platform: 
+- Unit: 
+
+## Tasks
+
+- [ ] Locate and review the source PDF
+- [ ] Fill document metadata (classification, release authority, MDR, page count)
+- [ ] Confirm verbatim extractions

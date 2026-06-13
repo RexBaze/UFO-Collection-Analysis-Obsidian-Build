@@ -1,7 +1,7 @@
 ---
 title: Historical Archive Index
 date: 2026-05-27
-tags: [source, source/historical, index, needs-content-extraction]
+tags: [source, source/historical, index]
 type: reference
 ---
 
@@ -13,8 +13,8 @@ type: reference
 | Source PDF | Likely Content | Status |
 | ---------- | -------------- | ------ |
 | `../059UAP00011.pdf` | Moscow 2001 cable "UFOs over Georgia" | ==Read, has its own note== ([[Source - 2001 Moscow Cable UFOs Over Georgia]]); classified as keyword false positive |
-| `../059UAP00012.pdf` | Adjacent State Dept release | Skeleton: [[Source - 059UAP00012 SKELETON]] |
-| `../059UAP00013.pdf` | Adjacent State Dept release | Skeleton: [[Source - 059UAP00013 SKELETON]] |
+| `../059UAP00012.pdf` | 2004 Ashgabat cable, Turkmenistan civil society & UFOs | ==Read, has its own note== ([[Source - 059UAP00012]]) |
+| `../059UAP00013.pdf` | 2023 Mexico cable, Mexican Congress UAP hearing | ==Read, has its own note== ([[Source - 059UAP00013]]) |
 | `../341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399.pdf` | State Dept records on intelligence collection 1948-1955 | Unread (oversize) |
 | `../341_110677_Numerical_File_5-2500.pdf` | State Dept numerical file 5-2500 | Unread |
 | `../59_64634_711.5612[7-2852.pdf` | 1952 Samford memorandum | ==Read, has its own note== ([[Source - 1952 Samford Memorandum Flying Saucers]]) |
@@ -24,6 +24,7 @@ type: reference
 
 | Source PDF | Likely Content | Status |
 | ---------- | -------------- | ------ |
+| `../DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf` | 1949 USAF Sandia Base security correspondence; ties to the 24 Jul 1949 green fireball | ==Read, has its own note== ([[Source - DOW-UAP-D017 Sandia General Correspondence]]) |
 | `../18_100754_ General 1946-7_Vol_2.pdf` | Army general correspondence 1946-47, Vol 2 | Unread (oversize) |
 | `../18_6369445_General_1948_Vol_1.pdf` | Army general correspondence 1948, Vol 1 | Unread (oversize) |
 | `../38_143685_box7_Incident_Summaries_1-100.pdf` | ==Project Sign / Grudge incident summaries 1-100== | Unread (oversize) |

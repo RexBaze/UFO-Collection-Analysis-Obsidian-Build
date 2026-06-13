@@ -3,7 +3,7 @@
     {
       "id": "thesis",
       "type": "file",
-      "file": "09 - Patterns and Theses/Thesis - Eyewitness Divergence in Transient Aerial Events.md",
+      "file": "10 - Patterns and Theses/Thesis - Eyewitness Divergence in Transient Aerial Events.md",
       "x": -150,
       "y": -540,
       "width": 520,
@@ -23,7 +23,7 @@
     {
       "id": "inc-lidar",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
+      "file": "03 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
       "x": -150,
       "y": -120,
       "width": 520,
@@ -33,7 +33,7 @@
     {
       "id": "loc",
       "type": "file",
-      "file": "04 - Locations/Location - CONUS LiDAR Test Site.md",
+      "file": "05 - Locations/Location - CONUS LiDAR Test Site.md",
       "x": 480,
       "y": -90,
       "width": 360,
@@ -43,7 +43,7 @@
     {
       "id": "phenom",
       "type": "file",
-      "file": "08 - Phenomenology/Phenom - Linear Object with Bright Light.md",
+      "file": "09 - Phenomenology/Phenom - Linear Object with Bright Light.md",
       "x": 480,
       "y": 140,
       "width": 360,
@@ -53,7 +53,7 @@
     {
       "id": "wA",
       "type": "file",
-      "file": "07 - Witnesses/Witness - LiDAR Test Convoy Witness A.md",
+      "file": "08 - Witnesses/Witness - LiDAR Test Convoy Witness A.md",
       "x": -700,
       "y": 240,
       "width": 380,
@@ -63,7 +63,7 @@
     {
       "id": "srcA",
       "type": "file",
-      "file": "03 - Sources/Source - FBI Serial 4 Redacted.md",
+      "file": "04 - Sources/Source - FBI Serial 4 Redacted.md",
       "x": -700,
       "y": 480,
       "width": 380,
@@ -83,7 +83,7 @@
     {
       "id": "wB",
       "type": "file",
-      "file": "07 - Witnesses/Witness - LiDAR Test Convoy Witness B.md",
+      "file": "08 - Witnesses/Witness - LiDAR Test Convoy Witness B.md",
       "x": 160,
       "y": 240,
       "width": 380,
@@ -93,7 +93,7 @@
     {
       "id": "srcB",
       "type": "file",
-      "file": "03 - Sources/Source - FBI Serial 5 Redacted.md",
+      "file": "04 - Sources/Source - FBI Serial 5 Redacted.md",
       "x": 160,
       "y": 480,
       "width": 380,

@@ -73,7 +73,7 @@
     {
       "id": "platform-f15",
       "type": "file",
-      "file": "05 - Platforms and Units/Platform - F-15E Strike Eagle.md",
+      "file": "06 - Platforms and Units/Platform - F-15E Strike Eagle.md",
       "x": -700,
       "y": 150,
       "width": 300,
@@ -93,7 +93,7 @@
     {
       "id": "platform-f18",
       "type": "file",
-      "file": "05 - Platforms and Units/Platform - MH-60R Seahawk.md",
+      "file": "06 - Platforms and Units/Platform - MH-60R Seahawk.md",
       "x": -700,
       "y": 540,
       "width": 300,
@@ -123,7 +123,7 @@
     {
       "id": "unit-389",
       "type": "file",
-      "file": "05 - Platforms and Units/Unit - 389 EFS.md",
+      "file": "06 - Platforms and Units/Unit - 389 EFS.md",
       "x": 100,
       "y": 150,
       "width": 300,
@@ -143,7 +143,7 @@
     {
       "id": "paroc",
       "type": "file",
-      "file": "05 - Platforms and Units/Unit - 12 AF DET 3.md",
+      "file": "06 - Platforms and Units/Unit - 12 AF DET 3.md",
       "x": 100,
       "y": 580,
       "width": 300,
@@ -173,7 +173,7 @@
     {
       "id": "tearline",
       "type": "file",
-      "file": "03 - Sources/Source - DOW-UAP-D50 INDOPACOM Email April 2025.md",
+      "file": "04 - Sources/Source - DOW-UAP-D50 INDOPACOM Email April 2025.md",
       "x": 1300,
       "y": 150,
       "width": 300,

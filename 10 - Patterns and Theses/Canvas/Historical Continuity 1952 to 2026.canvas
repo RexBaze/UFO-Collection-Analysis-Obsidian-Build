@@ -3,7 +3,7 @@
     {
       "id": "thesis",
       "type": "file",
-      "file": "09 - Patterns and Theses/Thesis - Historical Continuity of Air Force Position 1952 to 2026.md",
+      "file": "10 - Patterns and Theses/Thesis - Historical Continuity of Air Force Position 1952 to 2026.md",
       "x": -200,
       "y": -600,
       "width": 500,
@@ -63,7 +63,7 @@
     {
       "id": "samford",
       "type": "file",
-      "file": "03 - Sources/Source - 1952 Samford Memorandum Flying Saucers.md",
+      "file": "04 - Sources/Source - 1952 Samford Memorandum Flying Saucers.md",
       "x": -900,
       "y": 200,
       "width": 400,
@@ -73,7 +73,7 @@
     {
       "id": "png",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1985-01-24 Papua New Guinea Overflights.md",
+      "file": "03 - Incidents/Incident - 1985-01-24 Papua New Guinea Overflights.md",
       "x": -200,
       "y": 200,
       "width": 400,
@@ -83,7 +83,7 @@
     {
       "id": "kaz",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1994-01-27 Kazakhstan 747SP.md",
+      "file": "03 - Incidents/Incident - 1994-01-27 Kazakhstan 747SP.md",
       "x": -200,
       "y": 480,
       "width": 400,
@@ -93,7 +93,7 @@
     {
       "id": "latakia",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2016-11-18 Latakia P-8A.md",
+      "file": "03 - Incidents/Incident - 2016-11-18 Latakia P-8A.md",
       "x": 500,
       "y": 200,
       "width": 400,
@@ -103,7 +103,7 @@
     {
       "id": "cluster2020",
       "type": "file",
-      "file": "09 - Patterns and Theses/Thesis - 2020 Arabian Gulf Cluster.md",
+      "file": "10 - Patterns and Theses/Thesis - 2020 Arabian Gulf Cluster.md",
       "x": 1200,
       "y": 200,
       "width": 400,
@@ -113,7 +113,7 @@
     {
       "id": "shaddadi",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2023-02-21 Shaddadi F-15E.md",
+      "file": "03 - Incidents/Incident - 2023-02-21 Shaddadi F-15E.md",
       "x": 1200,
       "y": 480,
       "width": 400,
@@ -123,7 +123,7 @@
     {
       "id": "lidar",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
+      "file": "03 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
       "x": 600,
       "y": 480,
       "width": 400,
@@ -133,7 +133,7 @@
     {
       "id": "d50",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2025-04-10 INDOPACOM Tearline.md",
+      "file": "03 - Incidents/Incident - 2025-04-10 INDOPACOM Tearline.md",
       "x": 1200,
       "y": 760,
       "width": 400,
@@ -143,7 +143,7 @@
     {
       "id": "djibouti",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2025 Djibouti D8 Two White-Hot UAPs.md",
+      "file": "03 - Incidents/Incident - 2025 Djibouti D8 Two White-Hot UAPs.md",
       "x": 700,
       "y": 760,
       "width": 400,
@@ -203,7 +203,7 @@
     {
       "id": "himalayan",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1968-03 Himalayan Border UAP Wave.md",
+      "file": "03 - Incidents/Incident - 1968-03 Himalayan Border UAP Wave.md",
       "x": -1300,
       "y": 300,
       "width": 380,
@@ -213,7 +213,7 @@
     {
       "id": "zimbabwe",
       "type": "file",
-      "file": "02 - Incidents/Incident - 2008-07-02 Harare Zimbabwe Disc.md",
+      "file": "03 - Incidents/Incident - 2008-07-02 Harare Zimbabwe Disc.md",
       "x": -1300,
       "y": 710,
       "width": 380,

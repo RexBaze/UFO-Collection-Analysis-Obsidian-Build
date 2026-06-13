@@ -3,7 +3,7 @@
     {
       "id": "thesis",
       "type": "file",
-      "file": "09 - Patterns and Theses/Thesis - Apollo Debris Misidentification Pattern.md",
+      "file": "10 - Patterns and Theses/Thesis - Apollo Debris Misidentification Pattern.md",
       "x": -200,
       "y": -500,
       "width": 500,
@@ -23,7 +23,7 @@
     {
       "id": "src-d1",
       "type": "file",
-      "file": "03 - Sources/Source - NASA-UAP-D1 Apollo 12 Transcript 1969.md",
+      "file": "04 - Sources/Source - NASA-UAP-D1 Apollo 12 Transcript 1969.md",
       "x": -700,
       "y": 50,
       "width": 420,
@@ -33,7 +33,7 @@
     {
       "id": "src-d2",
       "type": "file",
-      "file": "03 - Sources/Source - NASA-UAP-D2 Apollo 17 Transcript 1972.md",
+      "file": "04 - Sources/Source - NASA-UAP-D2 Apollo 17 Transcript 1972.md",
       "x": -200,
       "y": 50,
       "width": 420,
@@ -43,7 +43,7 @@
     {
       "id": "src-vm",
       "type": "file",
-      "file": "03 - Sources/Source - NASA-UAP-VM Series Apollo 12 and 17.md",
+      "file": "04 - Sources/Source - NASA-UAP-VM Series Apollo 12 and 17.md",
       "x": 300,
       "y": 50,
       "width": 420,
@@ -53,7 +53,7 @@
     {
       "id": "w12",
       "type": "file",
-      "file": "07 - Witnesses/Witness - Apollo 12 Crew.md",
+      "file": "08 - Witnesses/Witness - Apollo 12 Crew.md",
       "x": -700,
       "y": 380,
       "width": 420,
@@ -63,7 +63,7 @@
     {
       "id": "w17",
       "type": "file",
-      "file": "07 - Witnesses/Witness - Apollo 17 Crew.md",
+      "file": "08 - Witnesses/Witness - Apollo 17 Crew.md",
       "x": -200,
       "y": 380,
       "width": 420,
@@ -73,7 +73,7 @@
     {
       "id": "platform",
       "type": "file",
-      "file": "05 - Platforms and Units/Platform - Apollo CSM.md",
+      "file": "06 - Platforms and Units/Platform - Apollo CSM.md",
       "x": 300,
       "y": 380,
       "width": 420,
@@ -83,7 +83,7 @@
     {
       "id": "inc-fragment",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1972 Apollo 17 Fragment Field.md",
+      "file": "03 - Incidents/Incident - 1972 Apollo 17 Fragment Field.md",
       "x": -700,
       "y": 650,
       "width": 420,
@@ -93,7 +93,7 @@
     {
       "id": "inc-grimaldi",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1972 Apollo 17 Grimaldi Lunar Flash.md",
+      "file": "03 - Incidents/Incident - 1972 Apollo 17 Grimaldi Lunar Flash.md",
       "x": -200,
       "y": 650,
       "width": 420,
@@ -103,7 +103,7 @@
     {
       "id": "phenom-phosphene",
       "type": "file",
-      "file": "08 - Phenomenology/Phenom - Apollo Cosmic Ray Phosphenes.md",
+      "file": "09 - Phenomenology/Phenom - Apollo Cosmic Ray Phosphenes.md",
       "x": -700,
       "y": 960,
       "width": 420,
@@ -113,7 +113,7 @@
     {
       "id": "phenom-tlp",
       "type": "file",
-      "file": "08 - Phenomenology/Phenom - Transient Lunar Phenomena.md",
+      "file": "09 - Phenomenology/Phenom - Transient Lunar Phenomena.md",
       "x": -200,
       "y": 960,
       "width": 420,
@@ -123,7 +123,7 @@
     {
       "id": "loc-grimaldi",
       "type": "file",
-      "file": "04 - Locations/Location - Grimaldi Crater.md",
+      "file": "05 - Locations/Location - Grimaldi Crater.md",
       "x": 300,
       "y": 650,
       "width": 420,
@@ -133,7 +133,7 @@
     {
       "id": "loc-translunar",
       "type": "file",
-      "file": "04 - Locations/Location - Translunar Coast.md",
+      "file": "05 - Locations/Location - Translunar Coast.md",
       "x": 300,
       "y": 900,
       "width": 420,
@@ -163,7 +163,7 @@
     {
       "id": "inc-rotating",
       "type": "file",
-      "file": "02 - Incidents/Incident - 1972 Apollo 17 Rotating Bright Object.md",
+      "file": "03 - Incidents/Incident - 1972 Apollo 17 Rotating Bright Object.md",
       "x": -700,
       "y": 1210,
       "width": 420,

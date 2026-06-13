@@ -1,6 +1,5 @@
 ---
 title: Thesis - Hypothesis Name
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: open

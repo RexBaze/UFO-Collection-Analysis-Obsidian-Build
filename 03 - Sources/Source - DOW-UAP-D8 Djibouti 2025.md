@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D8 Djibouti 2025
-date: 2026-05-27
 tags: [source, agency/dow, source/misrep, release/aaro]
 type: source
 ---

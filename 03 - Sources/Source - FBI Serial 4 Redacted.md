@@ -1,6 +1,5 @@
 ---
 title: Source - FBI Serial 4 Redacted
-date: 2026-05-27
 tags: [source, agency/fbi, source/fd-302]
 type: source
 release_date: 2023-10

@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020 Arabian Gulf D6 Single Probable UAP
-date: 2026-05-27
 tags: [incident, aor/centcom, status/probable-conventional]
 type: incident
 status: probable-conventional

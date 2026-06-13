@@ -1,6 +1,5 @@
 ---
 title: Source - NASA-UAP-VM Series Apollo 12 and 17
-date: 2026-05-27
 tags: [source, agency/nasa, source/sensor-image]
 type: source
 ---

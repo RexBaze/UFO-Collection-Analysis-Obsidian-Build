@@ -1,6 +1,5 @@
 ---
 title: Location - Greece
-date: 2026-05-27
 tags: [location, aor/eucom]
 type: location
 ---

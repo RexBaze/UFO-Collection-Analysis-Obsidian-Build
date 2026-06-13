@@ -1,6 +1,5 @@
 ---
 title: Witness - Apollo 12 Crew
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

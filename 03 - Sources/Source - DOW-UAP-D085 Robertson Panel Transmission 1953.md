@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D085 Robertson Panel Transmission 1953
-date: 2026-06-12
 tags: [source, agency/cia, agency/dow, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

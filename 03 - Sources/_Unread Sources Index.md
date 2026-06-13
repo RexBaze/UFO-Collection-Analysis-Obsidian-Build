@@ -1,6 +1,5 @@
 ---
 title: _Unread Sources Index
-date: 2026-05-27
 tags: [source, index]
 type: reference
 ---

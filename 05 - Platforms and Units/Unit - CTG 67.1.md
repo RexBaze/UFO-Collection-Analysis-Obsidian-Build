@@ -1,6 +1,5 @@
 ---
 title: Unit - CTG 67.1
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: [Commander Task Group 67.1]

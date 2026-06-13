@@ -1,6 +1,5 @@
 ---
 title: Location - CONUS LiDAR Test Site
-date: 2026-05-27
 tags: [location, aor/northcom]
 type: location
 aliases: [LiDAR Test Site]

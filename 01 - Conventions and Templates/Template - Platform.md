@@ -1,6 +1,5 @@
 ---
 title: Platform - Aircraft Name
-date: 2026-05-27
 tags: [platform]
 type: platform
 aliases: []

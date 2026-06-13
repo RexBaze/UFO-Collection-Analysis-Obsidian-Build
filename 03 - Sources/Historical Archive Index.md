@@ -1,6 +1,5 @@
 ---
 title: Historical Archive Index
-date: 2026-05-27
 tags: [source, source/historical, index]
 type: reference
 ---

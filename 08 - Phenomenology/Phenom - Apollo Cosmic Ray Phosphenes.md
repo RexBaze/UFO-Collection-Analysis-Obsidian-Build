@@ -1,6 +1,5 @@
 ---
 title: Phenom - Apollo Cosmic Ray Phosphenes
-date: 2026-05-27
 tags: [phenom]
 type: phenom
 ---

@@ -1,6 +1,5 @@
 ---
 title: Thesis - Keyword Sweep False Positives
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

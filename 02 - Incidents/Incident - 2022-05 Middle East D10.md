@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-05-06 Middle East D10 Five UAPs (One Missile-Like, Four Possible Birds)
-date: 2026-05-27
 tags: [incident, aor/centcom, status/probable-conventional]
 type: incident
 status: probable-conventional

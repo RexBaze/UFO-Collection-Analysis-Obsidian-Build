@@ -1,6 +1,5 @@
 ---
 title: Incident - 1968-03 Himalayan Border UAP Wave
-date: 2026-06-12
 tags: [incident, aor/indopacom, phenom/disc, phenom/linear, status/unresolved]
 type: incident
 status: unresolved

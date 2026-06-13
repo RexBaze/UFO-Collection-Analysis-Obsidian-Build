@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D32 Syria October 2024
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep, aor/centcom]
 type: source
 ---

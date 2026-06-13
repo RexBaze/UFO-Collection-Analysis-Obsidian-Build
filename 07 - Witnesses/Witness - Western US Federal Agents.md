@@ -1,6 +1,5 @@
 ---
 title: Witness - Western US Federal Agents
-date: 2026-06-12
 tags: [witness]
 type: witness
 ---

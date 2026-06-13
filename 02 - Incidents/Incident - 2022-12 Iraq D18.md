@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-12 Iraq D18 Possible UAP/UAV near Baghdad
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

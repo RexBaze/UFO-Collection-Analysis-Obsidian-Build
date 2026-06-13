@@ -1,6 +1,5 @@
 ---
 title: Source - FILENAME
-date: 2026-05-27
 tags: [source, agency/dow, source/misrep]
 type: source
 release_date: 

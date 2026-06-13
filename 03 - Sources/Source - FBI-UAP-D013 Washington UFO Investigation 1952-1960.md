@@ -1,6 +1,5 @@
 ---
 title: Source - FBI-UAP-D013 Washington UFO Investigation 1952-1960
-date: 2026-06-12
 tags: [source, agency/fbi, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

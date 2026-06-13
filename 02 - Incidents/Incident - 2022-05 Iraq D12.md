@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-05-06 Iraq D12 Single UAP, No Positive ID
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

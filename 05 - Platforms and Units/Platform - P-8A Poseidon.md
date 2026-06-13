@@ -1,6 +1,5 @@
 ---
 title: Platform - P-8A Poseidon
-date: 2026-05-27
 tags: [platform, platform/p-8a]
 type: platform
 aliases: [P-8, P-8A, Poseidon]

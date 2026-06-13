@@ -1,6 +1,5 @@
 ---
 title: Thesis - Historical Continuity of Air Force Position 1952 to 2026
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

@@ -1,6 +1,5 @@
 ---
 title: Vault Conventions
-date: 2026-05-27
 tags: [conventions, governance, reference]
 type: reference
 ---
@@ -38,7 +37,6 @@ Every note has YAML frontmatter. Common keys:
 | Key | Used by | Values |
 | --- | ------- | ------ |
 | `title` | All | Title as it appears in graph |
-| `date` | All | YYYY-MM-DD when note created |
 | `tags` | All | Lowercase, hyphenated, from controlled vocabulary |
 | `type` | All | `incident`, `source`, `location`, `platform`, `unit`, `sensor`, `witness`, `phenom`, `thesis`, `moc`, `reference` |
 | `status` | Incidents | `unresolved`, `probable-conventional`, `assessed-conventional`, `inconclusive` |

@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D49 Launch Summary Feb 2000
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep]
 type: source
 ---

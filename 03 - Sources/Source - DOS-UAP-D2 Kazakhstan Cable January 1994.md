@@ -1,6 +1,5 @@
 ---
 title: Source - DOS-UAP-D2 Kazakhstan Cable January 1994
-date: 2026-05-27
 tags: [source, agency/state, source/diplomatic-cable, release/state-dept]
 type: source
 release_date: 2026-02-25

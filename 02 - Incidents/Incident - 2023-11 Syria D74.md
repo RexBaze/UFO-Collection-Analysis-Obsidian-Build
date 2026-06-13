@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-11 Syria D74 Solid UAP at ~424 kt for 7+ Minutes
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Location - Eastern Mediterranean
-date: 2026-05-27
 tags: [location, aor/centcom, aor/eucom]
 type: location
 aliases: [Eastern Med, EMED]

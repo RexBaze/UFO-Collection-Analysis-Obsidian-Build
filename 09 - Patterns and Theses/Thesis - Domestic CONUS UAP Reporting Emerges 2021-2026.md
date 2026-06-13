@@ -1,6 +1,5 @@
 ---
 title: Thesis - Domestic CONUS UAP Reporting Emerges 2021-2026
-date: 2026-06-12
 tags: [thesis]
 type: thesis
 status: provisionally-supported

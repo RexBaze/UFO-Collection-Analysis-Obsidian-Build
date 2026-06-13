@@ -1,6 +1,5 @@
 ---
 title: Source - DOS-UAP-D1 Papua New Guinea Cable January 1985
-date: 2026-05-27
 tags: [source, agency/state, source/diplomatic-cable, release/state-dept]
 type: source
 release_date: 2026-02-25

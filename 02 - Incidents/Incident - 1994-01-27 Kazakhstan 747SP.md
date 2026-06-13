@@ -1,6 +1,5 @@
 ---
 title: Incident - 1994-01-27 Kazakhstan 747SP
-date: 2026-05-27
 tags: [incident, agency/state, phenom/high-altitude, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: FBI Photo Series Index
-date: 2026-05-27
 tags: [source, agency/fbi, source/sensor-image, index]
 type: source
 ---

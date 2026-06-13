@@ -1,6 +1,5 @@
 ---
 title: Location - Northeastern United States
-date: 2026-06-12
 tags: [location, aor/northcom]
 type: location
 aliases: [Northeastern US, NE US]

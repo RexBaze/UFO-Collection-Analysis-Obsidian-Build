@@ -1,6 +1,5 @@
 ---
 title: Unit - HSM-73
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: [Helicopter Maritime Strike Squadron 73, Battlecats]

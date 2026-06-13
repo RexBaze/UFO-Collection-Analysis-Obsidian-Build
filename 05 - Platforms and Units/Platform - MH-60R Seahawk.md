@@ -1,6 +1,5 @@
 ---
 title: Platform - MH-60R Seahawk
-date: 2026-05-27
 tags: [platform, platform/mh-60r]
 type: platform
 aliases: [MH-60R, Romeo, Seahawk]

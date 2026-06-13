@@ -90,7 +90,7 @@ Plain title case with a note-type prefix; structured dates go in frontmatter, no
 - ✅ `Source - DOW-UAP-D19 Syria February 2023`
 
 ### Frontmatter
-Every note carries YAML frontmatter. Common keys include `type`, `tags`, `date`, and — for incidents — `status`, `aor`, `date_event`, and `release_date`; sources add `mdr_number`. These fields power the Dataview tables.
+Every note carries YAML frontmatter. Common keys include `type` and `tags`, and — for incidents — `status`, `aor`, `date_event`, and `release_date`; sources add `mdr_number`. These fields power the Dataview tables. (Note creation/modification dates are handled automatically by Obsidian, so they aren't duplicated in frontmatter.)
 
 ### Incident status taxonomy
 `unresolved` · `probable-conventional` · `assessed-conventional` · `inconclusive`

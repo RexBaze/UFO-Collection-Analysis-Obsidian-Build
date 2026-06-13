@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D077 Western US Event AARO Analysis
-date: 2026-06-12
 tags: [source, agency/aaro, agency/dow, source/intel-assessment, release/pursue]
 type: source
 release_date: 2026-06-12

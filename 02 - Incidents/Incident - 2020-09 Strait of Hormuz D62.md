@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-09-16 Strait of Hormuz D62 UAP After Two LOST LINK EMI Events
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

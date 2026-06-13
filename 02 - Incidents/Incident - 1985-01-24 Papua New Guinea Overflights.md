@@ -1,6 +1,5 @@
 ---
 title: Incident - 1985-01-24 Papua New Guinea Overflights
-date: 2026-05-27
 tags: [incident, agency/state, status/unresolved]
 type: incident
 status: unresolved

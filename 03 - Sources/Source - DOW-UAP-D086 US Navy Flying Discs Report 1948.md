@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D086 US Navy Flying Discs Report 1948
-date: 2026-06-12
 tags: [source, agency/navy, agency/dow, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

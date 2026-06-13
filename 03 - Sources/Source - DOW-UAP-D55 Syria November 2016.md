@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D55 Syria November 2016
-date: 2026-05-27
 tags: [source, agency/dow, source/misrep, release/aaro, release/mdr, status/assessed-conventional]
 type: source
 release_date: 2026-03-20

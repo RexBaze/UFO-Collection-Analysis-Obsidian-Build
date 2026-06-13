@@ -1,6 +1,5 @@
 ---
 title: Platform - MQ-9 Reaper
-date: 2026-06-12
 tags: [platform, platform/mq-9]
 type: platform
 aliases: [MQ-9, Reaper, Predator B, RPA]

@@ -1,6 +1,5 @@
 ---
 title: Platform - Boeing 747SP Civilian
-date: 2026-05-27
 tags: [platform, platform/civilian-aviation]
 type: platform
 aliases: [747SP]

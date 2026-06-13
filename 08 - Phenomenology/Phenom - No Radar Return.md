@@ -1,6 +1,5 @@
 ---
 title: Phenom - No Radar Return
-date: 2026-05-27
 tags: [phenom, phenom/no-radar-return]
 type: phenom
 ---

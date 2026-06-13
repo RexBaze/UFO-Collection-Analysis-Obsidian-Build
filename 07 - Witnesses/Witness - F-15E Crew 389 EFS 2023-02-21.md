@@ -1,6 +1,5 @@
 ---
 title: Witness - F-15E Crew 389 EFS 2023-02-21
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

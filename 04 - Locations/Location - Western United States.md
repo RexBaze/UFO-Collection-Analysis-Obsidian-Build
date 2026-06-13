@@ -1,6 +1,5 @@
 ---
 title: Location - Western United States
-date: 2026-06-12
 tags: [location, aor/northcom]
 type: location
 aliases: [Western US, Western US Event, Sensitive National Security Site]

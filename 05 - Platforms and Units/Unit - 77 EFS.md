@@ -1,6 +1,5 @@
 ---
 title: Unit - 77 EFS
-date: 2026-06-12
 tags: [unit, aor/centcom, platform/f-16]
 type: unit
 aliases: [77th Expeditionary Fighter Squadron, 77 EFS]

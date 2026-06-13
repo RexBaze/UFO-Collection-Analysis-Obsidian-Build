@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-10-27 Two Metallic Objects with Radar Lock and Noise Jamming
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/metallic, phenom/reflective, status/unresolved]
 type: incident
 status: unresolved

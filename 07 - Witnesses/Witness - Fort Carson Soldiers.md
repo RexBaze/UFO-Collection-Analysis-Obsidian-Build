@@ -1,6 +1,5 @@
 ---
 title: Witness - Fort Carson Soldiers
-date: 2026-06-12
 tags: [witness]
 type: witness
 ---

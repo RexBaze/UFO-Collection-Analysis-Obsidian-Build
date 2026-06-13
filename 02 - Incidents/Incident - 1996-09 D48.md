@@ -1,6 +1,5 @@
 ---
 title: Incident - 1996 D48 Space-Booster Failure Risk Study (Context Document)
-date: 2026-05-27
 tags: [incident, status/assessed-conventional]
 type: incident
 status: assessed-conventional

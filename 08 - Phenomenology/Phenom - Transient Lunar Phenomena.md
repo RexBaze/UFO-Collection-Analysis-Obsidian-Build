@@ -1,6 +1,5 @@
 ---
 title: Phenom - Transient Lunar Phenomena
-date: 2026-05-27
 tags: [phenom]
 type: phenom
 aliases: [TLP, LTP]

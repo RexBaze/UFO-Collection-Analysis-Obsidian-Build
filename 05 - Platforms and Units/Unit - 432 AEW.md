@@ -1,6 +1,5 @@
 ---
 title: Unit - 432 AEW
-date: 2026-06-12
 tags: [unit, aor/centcom]
 type: unit
 aliases: [432d Air Expeditionary Wing, 432 AEW, Hunters]

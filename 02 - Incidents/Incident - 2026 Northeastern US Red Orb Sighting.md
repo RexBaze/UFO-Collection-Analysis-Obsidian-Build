@@ -1,6 +1,5 @@
 ---
 title: Incident - 2026 Northeastern US Red Orb Sighting
-date: 2026-06-12
 tags: [incident, aor/northcom, phenom/orb, phenom/red-orb, phenom/plasma, status/unresolved]
 type: incident
 status: unresolved

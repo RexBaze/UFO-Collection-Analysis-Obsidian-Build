@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-08-24 North Arabian Sea MH-60R
-date: 2026-05-27
 tags: [incident, aor/centcom, platform/mh-60r, phenom/round, phenom/no-radar-return, phenom/no-iff, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Source - ICA-UAP-D001 Colorado Springs Analysis
-date: 2026-06-12
 tags: [source, agency/ica, source/intel-assessment, release/pursue]
 type: source
 release_date: 2026-06-12

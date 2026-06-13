@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024 Northeastern US Plasma Orbs
-date: 2026-06-12
 tags: [incident, aor/northcom, phenom/orb, phenom/plasma, phenom/red-orb, status/unresolved]
 type: incident
 status: unresolved

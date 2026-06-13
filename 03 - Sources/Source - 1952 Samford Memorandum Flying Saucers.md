@@ -1,6 +1,5 @@
 ---
 title: Source - 1952 Samford Memorandum Flying Saucers
-date: 2026-05-27
 tags: [source, agency/state, source/historical, release/foia]
 type: source
 release_date: declassified per NND 852931

@@ -1,6 +1,5 @@
 ---
 title: Unit - 482 ATKS
-date: 2026-06-12
 tags: [unit, aor/centcom]
 type: unit
 aliases: [482nd Attack Squadron, 482 ATKS]

@@ -1,6 +1,5 @@
 ---
 title: Source - NASA-UAP-D2 Apollo 17 Transcript 1972
-date: 2026-05-27
 tags: [source, agency/nasa, source/transcript]
 type: source
 ---

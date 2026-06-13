@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-09 LiDAR Convoy
-date: 2026-05-27
 tags: [incident, agency/fbi, phenom/linear, status/unresolved]
 type: incident
 status: unresolved

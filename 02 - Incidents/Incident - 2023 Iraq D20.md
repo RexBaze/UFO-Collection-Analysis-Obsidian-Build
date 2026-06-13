@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-02 Iraq D20 Many Bright High-Altitude Objects (FL600+)
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/high-altitude, status/unresolved]
 type: incident
 status: unresolved

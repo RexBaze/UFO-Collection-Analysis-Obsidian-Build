@@ -1,6 +1,5 @@
 ---
 title: Source - FBI-UAP-D002 Colorado Springs Forensic Sketch 2022
-date: 2026-06-12
 tags: [source, agency/fbi, source/fd-1057, release/pursue]
 type: source
 release_date: 2026-06-12

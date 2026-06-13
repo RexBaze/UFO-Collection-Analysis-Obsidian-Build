@@ -1,6 +1,5 @@
 ---
 title: Source - FBI-UAP-D011 Hoover Correspondence Referral 1949
-date: 2026-06-12
 tags: [source, agency/fbi, source/correspondence, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

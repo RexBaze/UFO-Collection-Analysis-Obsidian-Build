@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D27 UAE October 2023
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep, aor/centcom]
 type: source
 ---

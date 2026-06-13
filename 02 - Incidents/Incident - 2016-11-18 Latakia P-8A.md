@@ -1,6 +1,5 @@
 ---
 title: Incident - 2016-11-18 Latakia P-8A
-date: 2026-05-27
 tags: [incident, aor/centcom, platform/p-8a, status/assessed-conventional]
 type: incident
 status: assessed-conventional

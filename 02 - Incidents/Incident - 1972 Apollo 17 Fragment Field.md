@@ -1,6 +1,5 @@
 ---
 title: Incident - 1972 Apollo 17 Fragment Field
-date: 2026-05-27
 tags: [incident, platform/apollo-csm, status/assessed-conventional]
 type: incident
 status: assessed-conventional

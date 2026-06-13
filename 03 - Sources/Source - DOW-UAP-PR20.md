@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-PR20
-date: 2026-05-27
 tags: [source, agency/dow, source/correspondence, release/mdr]
 type: source
 release_date: 2026-03-10

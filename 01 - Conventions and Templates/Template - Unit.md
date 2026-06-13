@@ -1,6 +1,5 @@
 ---
 title: Unit - Unit Designation
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: []

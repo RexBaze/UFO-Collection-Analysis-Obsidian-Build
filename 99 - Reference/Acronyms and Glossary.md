@@ -1,6 +1,5 @@
 ---
 title: Acronyms and Glossary
-date: 2026-05-27
 tags: [reference]
 type: reference
 ---

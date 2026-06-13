@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-09-21 East China Sea D28 UAP Crossing a PGM Shot
-date: 2026-05-27
 tags: [incident, aor/indopacom, status/unresolved]
 type: incident
 status: unresolved

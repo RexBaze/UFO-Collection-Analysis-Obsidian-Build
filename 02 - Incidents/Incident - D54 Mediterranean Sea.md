@@ -1,6 +1,5 @@
 ---
 title: Incident - D54 Aegean/Mediterranean Triangular Metallic UAP
-date: 2026-05-27
 tags: [incident, aor/eucom, phenom/metallic, status/unresolved]
 type: incident
 status: unresolved

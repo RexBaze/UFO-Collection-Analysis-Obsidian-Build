@@ -1,6 +1,5 @@
 ---
 title: Sensor - Sensor Name
-date: 2026-05-27
 tags: [sensor]
 type: sensor
 aliases: []

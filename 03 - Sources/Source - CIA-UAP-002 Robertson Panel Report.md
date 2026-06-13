@@ -1,6 +1,5 @@
 ---
 title: Source - CIA-UAP-002 Robertson Panel Report
-date: 2026-06-12
 tags: [source, agency/cia, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

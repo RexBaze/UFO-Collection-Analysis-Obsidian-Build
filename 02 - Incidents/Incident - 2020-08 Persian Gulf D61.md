@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-08-27 Persian Gulf D61 Formation of UNK Flying Objects
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

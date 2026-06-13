@@ -1,6 +1,5 @@
 ---
 title: Location - Zimbabwe
-date: 2026-06-12
 tags: [location, aor/africom]
 type: location
 aliases: [Harare, Harare International Airport]

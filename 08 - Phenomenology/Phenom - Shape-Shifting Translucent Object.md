@@ -1,6 +1,5 @@
 ---
 title: Phenom - Shape-Shifting Translucent Object
-date: 2026-06-12
 tags: [phenom, phenom/translucent, phenom/shape-shifting, phenom/silent]
 type: phenom
 ---

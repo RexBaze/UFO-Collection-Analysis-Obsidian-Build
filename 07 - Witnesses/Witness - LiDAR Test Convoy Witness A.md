@@ -1,6 +1,5 @@
 ---
 title: Witness - LiDAR Test Convoy Witness A
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

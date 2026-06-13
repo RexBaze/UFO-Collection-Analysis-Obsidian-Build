@@ -1,6 +1,5 @@
 ---
 title: Sensor - ATFLIR
-date: 2026-05-27
 tags: [sensor, sensor/atflir]
 type: sensor
 aliases: [Advanced Targeting Forward-Looking Infrared, AN/ASQ-228]

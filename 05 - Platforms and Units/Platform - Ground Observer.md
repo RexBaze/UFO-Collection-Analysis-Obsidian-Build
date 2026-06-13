@@ -1,6 +1,5 @@
 ---
 title: Platform - Ground Observer
-date: 2026-05-27
 tags: [platform, platform/ground-observer]
 type: platform
 aliases: [Civilian Witness, Witness on Ground]

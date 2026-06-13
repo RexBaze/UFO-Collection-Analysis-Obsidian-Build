@@ -1,6 +1,5 @@
 ---
 title: Sensor - APG-82 Radar
-date: 2026-05-27
 tags: [sensor, sensor/radar-apg82]
 type: sensor
 aliases: [APG-82, APG-82(V)1]

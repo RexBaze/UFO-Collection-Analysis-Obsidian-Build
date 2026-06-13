@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-02-15 Colorado Springs Cheyenne Mountain
-date: 2026-06-12
 tags: [incident, aor/northcom, phenom/translucent, phenom/shape-shifting, status/inconclusive]
 type: incident
 status: inconclusive

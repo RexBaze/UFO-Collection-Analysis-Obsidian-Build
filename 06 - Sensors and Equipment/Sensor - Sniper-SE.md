@@ -1,6 +1,5 @@
 ---
 title: Sensor - Sniper-SE
-date: 2026-05-27
 tags: [sensor, sensor/eoir]
 type: sensor
 aliases: [Sniper Advanced Targeting Pod, Sniper XR SE]

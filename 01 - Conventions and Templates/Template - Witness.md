@@ -1,6 +1,5 @@
 ---
 title: Witness - Name or Role
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

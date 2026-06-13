@@ -1,6 +1,5 @@
 ---
 title: Incident - D49 Vandenberg AFB Launch Summary 1958-2000 (Context Document)
-date: 2026-05-27
 tags: [incident, status/assessed-conventional]
 type: incident
 status: assessed-conventional

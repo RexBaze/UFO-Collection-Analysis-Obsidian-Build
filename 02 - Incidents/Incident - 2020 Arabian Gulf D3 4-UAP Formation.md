@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020 Arabian Gulf D3 4-UAP Formation
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/no-radar-return, status/unresolved]
 type: incident
 status: unresolved

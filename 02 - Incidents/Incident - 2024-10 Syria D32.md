@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-10-20 Syria D32 Plasma-State Light/Glare UAP
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/plasma, status/unresolved]
 type: incident
 status: unresolved

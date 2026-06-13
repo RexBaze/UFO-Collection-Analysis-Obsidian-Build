@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D58 Range Fouler October 2020
-date: 2026-06-12
 tags: [source, agency/dow, source/range-fouler, release/aaro, release/mdr, aor/centcom]
 type: source
 release_date: 2026-03-27

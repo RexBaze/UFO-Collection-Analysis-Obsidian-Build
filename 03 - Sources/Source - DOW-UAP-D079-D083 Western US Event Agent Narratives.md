@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D079-D083 Western US Event Agent Narratives
-date: 2026-06-12
 tags: [source, agency/dow, agency/aaro, source/debrief, release/pursue]
 type: source
 release_date: 2026-06-12

@@ -1,6 +1,5 @@
 ---
 title: MOC - Patterns and Theses
-date: 2026-05-27
 tags: [moc]
 type: moc
 ---

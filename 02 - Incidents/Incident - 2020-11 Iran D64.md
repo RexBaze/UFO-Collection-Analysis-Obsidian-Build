@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-11-02 Iran D64 Two UAPs and an Iranian Guard Call
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

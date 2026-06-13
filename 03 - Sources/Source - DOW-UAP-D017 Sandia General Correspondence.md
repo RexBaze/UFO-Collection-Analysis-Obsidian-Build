@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D017 Sandia General Correspondence
-date: 2026-05-27
 tags: [source, agency/usaf, source/historical, source/correspondence]
 type: source
 release_date:

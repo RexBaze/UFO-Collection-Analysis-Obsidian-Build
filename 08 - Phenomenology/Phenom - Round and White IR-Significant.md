@@ -1,6 +1,5 @@
 ---
 title: Phenom - Round and White IR-Significant
-date: 2026-05-27
 tags: [phenom, phenom/round, phenom/white-hot]
 type: phenom
 ---

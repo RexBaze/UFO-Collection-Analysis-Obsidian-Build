@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D5 Arabian Gulf 2020
-date: 2026-05-27
 tags: [source, agency/dow, source/misrep, release/aaro, release/mdr]
 type: source
 release_date: 2025-10-08

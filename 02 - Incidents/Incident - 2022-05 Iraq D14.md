@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-05-30 Iraq D14 Single UAP During Naval/Air Monitoring
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

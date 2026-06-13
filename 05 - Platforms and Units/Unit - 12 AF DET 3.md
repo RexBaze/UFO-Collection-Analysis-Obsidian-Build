@@ -1,6 +1,5 @@
 ---
 title: Unit - 12 AF DET 3
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: [12 AF / DET 3, PAROC]

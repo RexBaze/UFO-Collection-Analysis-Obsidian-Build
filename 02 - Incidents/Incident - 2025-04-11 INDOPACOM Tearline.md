@@ -1,6 +1,5 @@
 ---
 title: Incident - 2025-04-11 INDOPACOM Tearline
-date: 2026-05-27
 tags: [incident, aor/indopacom, status/inconclusive]
 type: incident
 status: inconclusive

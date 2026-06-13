@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D087-D088 USAF Analysis of Flying Objects
-date: 2026-06-12
 tags: [source, agency/usaf, agency/dow, source/study, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

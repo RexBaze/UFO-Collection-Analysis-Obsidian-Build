@@ -1,6 +1,5 @@
 ---
 title: Source - 2024-04-30 Composite Sketch
-date: 2026-05-27
 tags: [source, source/digital-rendering, phenom/disc]
 type: source
 ---

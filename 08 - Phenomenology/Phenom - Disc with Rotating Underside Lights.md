@@ -1,6 +1,5 @@
 ---
 title: Phenom - Disc with Rotating Underside Lights
-date: 2026-06-12
 tags: [phenom, phenom/disc]
 type: phenom
 ---

@@ -1,6 +1,5 @@
 ---
 title: Platform - Apollo LM
-date: 2026-06-12
 tags: [platform, platform/apollo-lm]
 type: platform
 aliases: [Apollo LM, Lunar Module, LEM]

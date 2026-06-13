@@ -1,6 +1,5 @@
 ---
 title: Sensor - Photographic
-date: 2026-06-12
 tags: [sensor]
 type: sensor
 aliases: [handheld camera, phone camera, long exposure]

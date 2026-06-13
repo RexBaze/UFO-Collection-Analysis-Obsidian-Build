@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020 Arabian Gulf D5 Two-Event Report
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Unit - 332 AEW
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: [332nd Air Expeditionary Wing]

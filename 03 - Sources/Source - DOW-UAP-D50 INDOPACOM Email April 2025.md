@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D50 INDOPACOM Email April 2025
-date: 2026-05-27
 tags: [source, agency/dow, source/email-correspondence, release/aaro]
 type: source
 ---

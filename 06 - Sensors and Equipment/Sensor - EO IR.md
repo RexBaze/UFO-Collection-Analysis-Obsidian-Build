@@ -1,6 +1,5 @@
 ---
 title: Sensor - EO IR
-date: 2026-05-27
 tags: [sensor, sensor/eoir]
 type: sensor
 aliases: [EO/IR, Electro-Optical Infrared, FLIR]

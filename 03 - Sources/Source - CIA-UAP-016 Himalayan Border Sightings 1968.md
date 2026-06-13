@@ -1,6 +1,5 @@
 ---
 title: Source - CIA-UAP-016 Himalayan Border Sightings 1968
-date: 2026-06-12
 tags: [source, agency/cia, source/intelligence-report, release/pursue]
 type: source
 release_date: 2026-06-12

@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D48 Report September 1996
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep]
 type: source
 ---

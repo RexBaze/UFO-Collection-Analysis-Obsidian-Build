@@ -1,6 +1,5 @@
 ---
 title: Phenom - Linear Object with Bright Light
-date: 2026-05-27
 tags: [phenom, phenom/linear]
 type: phenom
 ---

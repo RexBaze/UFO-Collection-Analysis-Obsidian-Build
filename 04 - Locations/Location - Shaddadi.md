@@ -1,6 +1,5 @@
 ---
 title: Location - Shaddadi
-date: 2026-05-27
 tags: [location, aor/centcom]
 type: location
 aliases: [Ash-Shaddadah, Killbox ESSA]

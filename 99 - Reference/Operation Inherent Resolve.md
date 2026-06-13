@@ -1,6 +1,5 @@
 ---
 title: Operation Inherent Resolve
-date: 2026-06-12
 tags: [reference, aor/centcom]
 type: reference
 aliases: [OIR, Operation Inherent Resolve, Inherent Resolve]

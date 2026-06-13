@@ -1,6 +1,5 @@
 ---
 title: Incident - 2022-07-31 Syria D16 Brief UAP Event, North to South
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Location - Kazakhstan
-date: 2026-05-27
 tags: [location, aor/indopacom]
 type: location
 ---

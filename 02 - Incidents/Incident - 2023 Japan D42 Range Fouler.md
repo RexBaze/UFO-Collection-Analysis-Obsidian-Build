@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023 Japan D42 Range Fouler, Two Same-Shape Objects Differing Speed
-date: 2026-05-27
 tags: [incident, aor/indopacom, status/unresolved]
 type: incident
 status: unresolved

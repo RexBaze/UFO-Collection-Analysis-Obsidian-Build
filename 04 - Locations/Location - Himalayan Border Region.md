@@ -1,6 +1,5 @@
 ---
 title: Location - Himalayan Border Region
-date: 2026-06-12
 tags: [location, aor/indopacom]
 type: location
 aliases: [Ladakh, Nepal, Sikkim, Bhutan, Pokhara]

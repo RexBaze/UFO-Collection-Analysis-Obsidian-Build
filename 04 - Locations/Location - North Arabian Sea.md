@@ -1,6 +1,5 @@
 ---
 title: Location - North Arabian Sea
-date: 2026-05-27
 tags: [location, aor/centcom]
 type: location
 aliases: [NAS, Working Area 21440]

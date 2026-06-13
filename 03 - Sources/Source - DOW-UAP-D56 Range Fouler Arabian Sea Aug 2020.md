@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D56 Range Fouler Arabian Sea Aug 2020
-date: 2026-05-27
 tags: [source, agency/dow, source/range-fouler, release/aaro, release/mdr]
 type: source
 release_date: 2026-03-27

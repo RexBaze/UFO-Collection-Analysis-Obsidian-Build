@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D078 Western US Event Notional Map
-date: 2026-06-12
 tags: [source, agency/dow, agency/aaro, source/notional-map, source/digital-rendering, release/pursue]
 type: source
 release_date: 2026-06-12

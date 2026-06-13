@@ -1,6 +1,5 @@
 ---
 title: SETUP FIRST
-date: 2026-05-27
 tags: [setup, important]
 type: reference
 ---

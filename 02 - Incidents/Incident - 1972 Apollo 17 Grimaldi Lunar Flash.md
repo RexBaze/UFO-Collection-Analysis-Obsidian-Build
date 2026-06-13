@@ -1,6 +1,5 @@
 ---
 title: Incident - 1972 Apollo 17 Grimaldi Lunar Flash
-date: 2026-05-27
 tags: [incident, platform/apollo-csm, status/unresolved]
 type: incident
 status: unresolved

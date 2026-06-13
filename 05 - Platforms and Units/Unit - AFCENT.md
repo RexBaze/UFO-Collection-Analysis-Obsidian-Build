@@ -1,6 +1,5 @@
 ---
 title: Unit - AFCENT
-date: 2026-06-12
 tags: [unit, aor/centcom]
 type: unit
 aliases: [AFCENT, U.S. Air Forces Central, Ninth Air Force, USAFCENT]

@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-10 Greece D33 / D35 Two UAP Observations
-date: 2026-05-27
 tags: [incident, aor/eucom, status/unresolved]
 type: incident
 status: unresolved

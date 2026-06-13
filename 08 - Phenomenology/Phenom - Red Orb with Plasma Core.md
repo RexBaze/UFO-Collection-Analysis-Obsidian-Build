@@ -1,6 +1,5 @@
 ---
 title: Phenom - Red Orb with Plasma Core
-date: 2026-06-12
 tags: [phenom, phenom/orb, phenom/red-orb, phenom/plasma, phenom/silent]
 type: phenom
 ---

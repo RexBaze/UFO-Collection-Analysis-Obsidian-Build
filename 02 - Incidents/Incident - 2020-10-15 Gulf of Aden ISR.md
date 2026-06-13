@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-10-15 Gulf of Aden ISR
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/round, phenom/cold-ir, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Source - 059UAP00012
-date: 2026-05-27
 tags: [source, agency/state, source/diplomatic-cable, release/state-dept]
 type: source
 release_date:

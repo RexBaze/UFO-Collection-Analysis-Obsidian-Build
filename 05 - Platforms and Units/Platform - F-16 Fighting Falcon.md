@@ -1,6 +1,5 @@
 ---
 title: Platform - F-16 Fighting Falcon
-date: 2026-06-12
 tags: [platform, platform/f-16]
 type: platform
 aliases: [F-16, Fighting Falcon, Viper]

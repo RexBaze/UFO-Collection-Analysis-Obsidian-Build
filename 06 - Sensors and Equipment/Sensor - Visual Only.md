@@ -1,6 +1,5 @@
 ---
 title: Sensor - Visual Only
-date: 2026-05-27
 tags: [sensor, sensor/visual-only]
 type: sensor
 aliases: [Mark I Eyeball, Visual]

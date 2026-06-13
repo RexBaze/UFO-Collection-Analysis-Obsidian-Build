@@ -1,6 +1,5 @@
 ---
 title: Thesis - Eyewitness Divergence in Transient Aerial Events
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

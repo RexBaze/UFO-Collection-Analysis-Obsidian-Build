@@ -1,6 +1,5 @@
 ---
 title: Platform - Apollo CSM
-date: 2026-05-27
 tags: [platform, platform/apollo-csm]
 type: platform
 aliases: [CSM, Command and Service Module, Yankee Clipper, America]

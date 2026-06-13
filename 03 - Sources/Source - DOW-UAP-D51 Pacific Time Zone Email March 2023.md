@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D51 Pacific Time Zone Email March 2023
-date: 2026-06-12
 tags: [source, agency/dow, source/email-correspondence, aor/indopacom]
 type: source
 ---

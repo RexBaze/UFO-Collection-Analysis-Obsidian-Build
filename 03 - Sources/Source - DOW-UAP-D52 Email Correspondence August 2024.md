@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D52 Email Correspondence August 2024
-date: 2026-06-12
 tags: [source, agency/dow, source/email-correspondence]
 type: source
 ---

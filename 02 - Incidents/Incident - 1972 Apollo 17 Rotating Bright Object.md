@@ -1,6 +1,5 @@
 ---
 title: Incident - 1972 Apollo 17 Rotating Bright Object
-date: 2026-06-12
 tags: [incident, platform/apollo-csm, status/assessed-conventional]
 type: incident
 status: assessed-conventional

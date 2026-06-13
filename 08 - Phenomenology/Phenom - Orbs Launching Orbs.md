@@ -1,6 +1,5 @@
 ---
 title: Phenom - Orbs Launching Orbs
-date: 2026-06-12
 tags: [phenom, phenom/orb, phenom/mother-orb, phenom/silent]
 type: phenom
 ---

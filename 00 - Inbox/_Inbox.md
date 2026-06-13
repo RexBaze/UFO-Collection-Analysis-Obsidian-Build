@@ -1,6 +1,5 @@
 ---
 title: _Inbox
-date: 2026-05-27
 tags: [inbox]
 type: reference
 ---

@@ -1,6 +1,5 @@
 ---
 title: Phenom - Kite-shaped Object
-date: 2026-06-12
 tags: [phenom, phenom/kite, phenom/translucent, phenom/silent]
 type: phenom
 ---

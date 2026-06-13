@@ -1,6 +1,5 @@
 ---
 title: Thesis - High-Altitude Maneuvering Observations Have Unusual Evidentiary Weight
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: open

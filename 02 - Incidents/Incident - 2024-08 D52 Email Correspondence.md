@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-10-31 D52 Oval/Orb UAP Observed Over Two Hours
-date: 2026-05-27
 tags: [incident, aor/na, phenom/orb, status/unresolved]
 type: incident
 status: unresolved

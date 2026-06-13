@@ -1,6 +1,5 @@
 ---
 title: Thesis - Apollo Debris Misidentification Pattern
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

@@ -1,6 +1,5 @@
 ---
 title: Collection Overview
-date: 2026-05-27
 tags: [reference, summary]
 type: reference
 ---

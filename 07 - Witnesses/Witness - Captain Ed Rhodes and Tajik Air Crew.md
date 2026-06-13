@@ -1,6 +1,5 @@
 ---
 title: Witness - Captain Ed Rhodes and Tajik Air Crew
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

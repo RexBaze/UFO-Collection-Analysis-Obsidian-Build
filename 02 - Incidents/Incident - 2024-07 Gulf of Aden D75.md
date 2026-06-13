@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-07-14 Gulf of Aden D75 Fast Straight-Flight UAP
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Location - Muwaffaq Salti Air Base
-date: 2026-05-27
 tags: [location, aor/centcom]
 type: location
 aliases: [OJMS, Azraq, MSAB]

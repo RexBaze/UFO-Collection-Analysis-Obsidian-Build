@@ -1,6 +1,5 @@
 ---
 title: Source - CIA-UAP Series Index
-date: 2026-06-12
 tags: [source, agency/cia, source/intelligence-report, source/historical, index, release/pursue]
 type: reference
 release_date: 2026-06-12

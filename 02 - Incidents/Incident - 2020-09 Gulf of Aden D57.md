@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-09-04 Gulf of Aden D57 Round Cold Object Abrupt Maneuvers
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/round, phenom/cold-ir, status/unresolved]
 type: incident
 status: unresolved

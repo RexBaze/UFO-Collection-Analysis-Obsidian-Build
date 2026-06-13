@@ -1,6 +1,5 @@
 ---
 title: Location - East China Sea
-date: 2026-05-27
 tags: [location, aor/indopacom]
 type: location
 aliases: [ECS]

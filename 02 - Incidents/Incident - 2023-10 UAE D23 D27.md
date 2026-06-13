@@ -1,6 +1,5 @@
 ---
 title: Incident - UAE D23 / D27 UAP Observations (Benign, Cold/Solid)
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/cold-ir, status/unresolved]
 type: incident
 status: unresolved

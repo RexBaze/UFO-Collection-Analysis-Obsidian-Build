@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-07-16 Persian Gulf D65 Three UAPs Over 21h Mission
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

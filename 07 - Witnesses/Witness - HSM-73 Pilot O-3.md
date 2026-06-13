@@ -1,6 +1,5 @@
 ---
 title: Witness - HSM-73 Pilot O-3
-date: 2026-05-27
 tags: [witness]
 type: witness
 ---

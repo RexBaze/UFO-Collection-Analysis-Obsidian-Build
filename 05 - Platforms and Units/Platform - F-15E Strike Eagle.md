@@ -1,6 +1,5 @@
 ---
 title: Platform - F-15E Strike Eagle
-date: 2026-05-27
 tags: [platform, platform/f-15e]
 type: platform
 aliases: [F-15E, Strike Eagle, Mudhen]

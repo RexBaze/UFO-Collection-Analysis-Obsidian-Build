@@ -1,6 +1,5 @@
 ---
 title: DOD Video Catalog
-date: 2026-05-27
 tags: [source, source/sensor-video, agency/dod, index]
 type: source
 ---

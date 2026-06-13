@@ -1,6 +1,5 @@
 ---
 title: Thesis - CENTCOM Sensor Density Hypothesis
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

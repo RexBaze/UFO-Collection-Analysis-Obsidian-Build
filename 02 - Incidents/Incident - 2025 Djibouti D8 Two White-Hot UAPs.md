@@ -1,6 +1,5 @@
 ---
 title: Incident - 2025 Djibouti D8 Two White-Hot UAPs
-date: 2026-05-27
 tags: [incident, aor/africom, phenom/round, phenom/white-hot, status/unresolved]
 type: incident
 status: unresolved

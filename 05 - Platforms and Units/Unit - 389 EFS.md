@@ -1,6 +1,5 @@
 ---
 title: Unit - 389 EFS
-date: 2026-05-27
 tags: [unit]
 type: unit
 aliases: [389th Expeditionary Fighter Squadron, 389 EFS]

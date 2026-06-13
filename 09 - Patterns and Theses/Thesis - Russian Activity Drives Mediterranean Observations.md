@@ -1,6 +1,5 @@
 ---
 title: Thesis - Russian Activity Drives Mediterranean Observations
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: provisionally-supported

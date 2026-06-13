@@ -1,6 +1,5 @@
 ---
 title: Release Authorities
-date: 2026-05-27
 tags: [reference]
 type: reference
 ---

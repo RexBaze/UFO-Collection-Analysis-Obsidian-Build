@@ -1,6 +1,5 @@
 ---
 title: Witness - Northeastern US Private Witnesses
-date: 2026-06-12
 tags: [witness]
 type: witness
 ---

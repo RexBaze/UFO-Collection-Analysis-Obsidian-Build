@@ -1,6 +1,5 @@
 ---
 title: Source - USG-UAP-D001 Congress White House UFO Correspondence 1998
-date: 2026-06-12
 tags: [source, agency/usg, agency/nasa, source/correspondence, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

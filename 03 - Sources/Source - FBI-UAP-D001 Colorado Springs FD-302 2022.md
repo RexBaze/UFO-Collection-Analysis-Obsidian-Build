@@ -1,6 +1,5 @@
 ---
 title: Source - FBI-UAP-D001 Colorado Springs FD-302 2022
-date: 2026-06-12
 tags: [source, agency/fbi, source/fd-302, release/pursue]
 type: source
 release_date: 2026-06-12

@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-04-30 Composite Sketch (Metallic Disc Depiction)
-date: 2026-05-27
 tags: [incident, phenom/disc, status/inconclusive]
 type: incident
 status: inconclusive

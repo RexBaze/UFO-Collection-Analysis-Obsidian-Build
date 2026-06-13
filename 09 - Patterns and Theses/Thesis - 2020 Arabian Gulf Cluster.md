@@ -1,6 +1,5 @@
 ---
 title: Thesis - 2020 Arabian Gulf Cluster
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: open

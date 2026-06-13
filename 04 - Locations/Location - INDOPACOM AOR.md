@@ -1,6 +1,5 @@
 ---
 title: Location - INDOPACOM AOR
-date: 2026-05-27
 tags: [location, aor/indopacom]
 type: location
 aliases: [Indo-Pacific, USINDOPACOM]

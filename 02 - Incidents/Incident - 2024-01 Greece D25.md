@@ -1,6 +1,5 @@
 ---
 title: Incident - 2024-01-25 Greece D25 Solid UAP with Altitude Changes
-date: 2026-05-27
 tags: [incident, aor/eucom, status/unresolved]
 type: incident
 status: unresolved

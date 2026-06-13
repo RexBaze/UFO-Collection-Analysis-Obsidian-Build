@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D084 US Army Flying Saucer Study 1949
-date: 2026-06-12
 tags: [source, agency/army, agency/dow, source/study, source/historical, release/pursue]
 type: source
 release_date: 2026-06-12

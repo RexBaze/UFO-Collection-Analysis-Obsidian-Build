@@ -1,6 +1,5 @@
 ---
 title: Location - Grimaldi Crater
-date: 2026-05-27
 tags: [location, aor/space]
 type: location
 ---

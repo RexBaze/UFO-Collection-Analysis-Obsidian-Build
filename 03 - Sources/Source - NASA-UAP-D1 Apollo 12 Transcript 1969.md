@@ -1,6 +1,5 @@
 ---
 title: Source - NASA-UAP-D1 Apollo 12 Transcript 1969
-date: 2026-05-27
 tags: [source, agency/nasa, source/transcript]
 type: source
 ---

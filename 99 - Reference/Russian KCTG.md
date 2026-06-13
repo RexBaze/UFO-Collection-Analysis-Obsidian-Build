@@ -1,6 +1,5 @@
 ---
 title: Russian KCTG
-date: 2026-06-12
 tags: [reference, aor/centcom]
 type: reference
 aliases: [Russian KCTG, Kuznetsov Carrier Task Group, Russian Kuznetsov Carrier Task Group, KCTG]

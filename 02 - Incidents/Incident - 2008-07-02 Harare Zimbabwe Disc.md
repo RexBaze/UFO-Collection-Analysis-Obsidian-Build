@@ -1,6 +1,5 @@
 ---
 title: Incident - 2008-07-02 Harare Zimbabwe Disc
-date: 2026-06-12
 tags: [incident, aor/africom, phenom/disc, status/unresolved]
 type: incident
 status: unresolved

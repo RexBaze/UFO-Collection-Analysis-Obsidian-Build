@@ -1,6 +1,5 @@
 ---
 title: Incident - 2020-05-14 Persian Gulf ISR
-date: 2026-05-27
 tags: [incident, aor/centcom, phenom/round, phenom/white-hot, status/unresolved]
 type: incident
 status: unresolved

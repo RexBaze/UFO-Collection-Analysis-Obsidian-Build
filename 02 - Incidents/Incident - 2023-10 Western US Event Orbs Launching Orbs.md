@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-10 Western US Event Orbs Launching Orbs
-date: 2026-06-12
 tags: [incident, aor/northcom, phenom/orb, phenom/mother-orb, phenom/kite, phenom/silent, status/unresolved]
 type: incident
 status: unresolved

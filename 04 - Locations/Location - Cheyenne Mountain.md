@@ -1,6 +1,5 @@
 ---
 title: Location - Cheyenne Mountain
-date: 2026-06-12
 tags: [location, aor/northcom]
 type: location
 aliases: [Fort Carson, Colorado Springs, Cheyenne Mountain Complex, NORAD]

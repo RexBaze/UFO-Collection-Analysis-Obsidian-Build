@@ -1,6 +1,5 @@
 ---
 title: SPEAR
-date: 2026-06-12
 tags: [reference, agency/navy]
 type: reference
 aliases: [SPEAR]

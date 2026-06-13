@@ -1,6 +1,5 @@
 ---
 title: Thesis - Federal Law Enforcement as a UAP Reporting Channel
-date: 2026-06-12
 tags: [thesis]
 type: thesis
 status: provisionally-supported

@@ -1,6 +1,5 @@
 ---
 title: MOC - Platforms and Units
-date: 2026-05-27
 tags: [moc]
 type: moc
 ---

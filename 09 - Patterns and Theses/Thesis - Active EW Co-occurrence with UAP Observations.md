@@ -1,6 +1,5 @@
 ---
 title: Thesis - Active EW Co-occurrence with UAP Observations
-date: 2026-05-27
 tags: [thesis]
 type: thesis
 status: open

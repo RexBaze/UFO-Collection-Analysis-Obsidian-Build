@@ -1,6 +1,5 @@
 ---
 title: Source - FBI-UAP-D014-D023 Western US Event Digital Renderings
-date: 2026-06-12
 tags: [source, agency/fbi, source/digital-rendering, release/pursue]
 type: source
 release_date: 2026-06-12

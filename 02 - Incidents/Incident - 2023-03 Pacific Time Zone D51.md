@@ -1,6 +1,5 @@
 ---
 title: Incident - 2023-03 D51 Blue Triangular Object over a National Security Facility
-date: 2026-05-27
 tags: [incident, aor/northcom, phenom/kite, status/unresolved]
 type: incident
 status: unresolved

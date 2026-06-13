@@ -1,6 +1,5 @@
 ---
 title: Home
-date: 2026-05-27
 tags: [moc, home, index]
 type: reference
 ---

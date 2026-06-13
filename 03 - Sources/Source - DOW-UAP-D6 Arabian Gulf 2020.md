@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D6 Arabian Gulf 2020
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep, release/aaro, release/mdr, aor/centcom]
 type: source
 release_date: 2025-10-08

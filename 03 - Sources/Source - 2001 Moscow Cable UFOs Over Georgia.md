@@ -1,6 +1,5 @@
 ---
 title: Source - 2001 Moscow Cable UFOs Over Georgia
-date: 2026-05-27
 tags: [source, agency/state, source/diplomatic-cable, status/keyword-false-positive]
 type: source
 release_date: 2026-02-25

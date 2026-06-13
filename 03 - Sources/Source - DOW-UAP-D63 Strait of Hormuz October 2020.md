@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D63 Strait of Hormuz October 2020
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep, aor/centcom]
 type: source
 ---

@@ -1,6 +1,5 @@
 ---
 title: Incident - YYYY-MM-DD Location Platform
-date: 2026-05-27
 tags: [incident, aor/centcom, status/unresolved]
 type: incident
 status: unresolved

@@ -1,6 +1,5 @@
 ---
 title: Location - United Arab Emirates
-date: 2026-05-27
 tags: [location, aor/centcom]
 type: location
 aliases: [UAE]

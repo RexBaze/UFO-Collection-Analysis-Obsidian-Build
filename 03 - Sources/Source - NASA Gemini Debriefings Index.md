@@ -1,6 +1,5 @@
 ---
 title: Source - NASA Gemini Debriefings Index
-date: 2026-06-12
 tags: [source, agency/nasa, source/debrief, source/transcript, release/pursue]
 type: reference
 release_date: 2026-06-12

@@ -1,6 +1,5 @@
 ---
 title: Location - Translunar Coast
-date: 2026-05-27
 tags: [location, aor/space]
 type: location
 ---

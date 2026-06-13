@@ -1,6 +1,5 @@
 ---
 title: Unit - 196 ATKS
-date: 2026-06-12
 tags: [unit, aor/centcom]
 type: unit
 aliases: [196th Attack Squadron, 196 ATKS, 163d Attack Wing]

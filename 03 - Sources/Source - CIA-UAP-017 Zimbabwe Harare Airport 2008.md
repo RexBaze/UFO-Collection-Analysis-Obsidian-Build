@@ -1,6 +1,5 @@
 ---
 title: Source - CIA-UAP-017 Zimbabwe Harare Airport 2008
-date: 2026-06-12
 tags: [source, agency/cia, source/intelligence-report, release/pursue]
 type: source
 release_date: 2026-06-12

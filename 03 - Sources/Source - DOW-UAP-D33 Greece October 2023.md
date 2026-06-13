@@ -1,6 +1,5 @@
 ---
 title: Source - DOW-UAP-D33 Greece October 2023
-date: 2026-06-12
 tags: [source, agency/dow, source/misrep, aor/eucom]
 type: source
 ---

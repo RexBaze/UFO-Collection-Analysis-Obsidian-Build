@@ -1,0 +1,275 @@
+{
+  "nodes": [
+    {
+      "id": "thesis",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - Apollo Debris Misidentification Pattern.md",
+      "x": -200,
+      "y": -500,
+      "width": 500,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "## NASA Apollo materials\n\nThe Apollo subset of the collection comes from the AARO-curated re-release of NASA materials, plus the original Apollo Image Library frames.\n\nKey finding: ==nearly every notable observation in the Apollo transcripts is identified by the crew or Capcom in real time== as a known cause (S-IVB debris, cosmic ray phosphenes, EMI). The single unresolved item is the Schmitt lunar surface flash near Grimaldi, which is consistent with a small meteoroid impact (modern TLP literature).\n\nThis canvas groups the materials by source, witness, and identified cause.",
+      "x": -1100,
+      "y": -500,
+      "width": 650,
+      "height": 480,
+      "color": "2"
+    },
+    {
+      "id": "src-d1",
+      "type": "file",
+      "file": "03 - Sources/Source - NASA-UAP-D1 Apollo 12 Transcript 1969.md",
+      "x": -700,
+      "y": 50,
+      "width": 420,
+      "height": 240,
+      "color": "7"
+    },
+    {
+      "id": "src-d2",
+      "type": "file",
+      "file": "03 - Sources/Source - NASA-UAP-D2 Apollo 17 Transcript 1972.md",
+      "x": -200,
+      "y": 50,
+      "width": 420,
+      "height": 240,
+      "color": "7"
+    },
+    {
+      "id": "src-vm",
+      "type": "file",
+      "file": "03 - Sources/Source - NASA-UAP-VM Series Apollo 12 and 17.md",
+      "x": 300,
+      "y": 50,
+      "width": 420,
+      "height": 240,
+      "color": "7"
+    },
+    {
+      "id": "w12",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - Apollo 12 Crew.md",
+      "x": -700,
+      "y": 380,
+      "width": 420,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "w17",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - Apollo 17 Crew.md",
+      "x": -200,
+      "y": 380,
+      "width": 420,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "platform",
+      "type": "file",
+      "file": "05 - Platforms and Units/Platform - Apollo CSM.md",
+      "x": 300,
+      "y": 380,
+      "width": 420,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "inc-fragment",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1972 Apollo 17 Fragment Field.md",
+      "x": -700,
+      "y": 650,
+      "width": 420,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "inc-grimaldi",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1972 Apollo 17 Grimaldi Lunar Flash.md",
+      "x": -200,
+      "y": 650,
+      "width": 420,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "phenom-phosphene",
+      "type": "file",
+      "file": "08 - Phenomenology/Phenom - Apollo Cosmic Ray Phosphenes.md",
+      "x": -700,
+      "y": 960,
+      "width": 420,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "phenom-tlp",
+      "type": "file",
+      "file": "08 - Phenomenology/Phenom - Transient Lunar Phenomena.md",
+      "x": -200,
+      "y": 960,
+      "width": 420,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "loc-grimaldi",
+      "type": "file",
+      "file": "04 - Locations/Location - Grimaldi Crater.md",
+      "x": 300,
+      "y": 650,
+      "width": 420,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "loc-translunar",
+      "type": "file",
+      "file": "04 - Locations/Location - Translunar Coast.md",
+      "x": 300,
+      "y": 900,
+      "width": 420,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "resolved",
+      "type": "text",
+      "text": "## Resolved in source\n\n==Fragment field== (Apollo 17): identified by crew as S-IVB debris\n\n==Rotating bright objects== (Apollo 17, 10-12 Earth diameters): identified by LMP Schmitt as S-IVB engine bell + SLA panels\n\n==Bright flashes between the eyes== (Apollo 17): cosmic ray phosphenes\n\n==Particles of light==, dark quadrant 1 (Apollo 12): attributed by LMP Bean to water boiler discharge\n\n==All-8's flash on AGS== (Apollo 12): Capcom identifies as Bethpage-known EMI\n\n==LM tracking light==: visible non-detection issue, not a hardware failure",
+      "x": 800,
+      "y": 50,
+      "width": 500,
+      "height": 540,
+      "color": "6"
+    },
+    {
+      "id": "unresolved",
+      "type": "text",
+      "text": "## Unresolved (genuinely open)\n\n==Grimaldi lunar surface flash== (Apollo 17, Schmitt): brief flash on lunar surface north of Grimaldi crater. Schmitt himself proposed meteoroid impact hypothesis and suggested seismometer cross-check. Whether the contemporaneous seismometer record contains a corresponding event is not in this collection.\n\nThis is the only Apollo observation in the collection without an in-document resolution.",
+      "x": 800,
+      "y": 650,
+      "width": 500,
+      "height": 380,
+      "color": "3"
+    },
+    {
+      "id": "inc-rotating",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1972 Apollo 17 Rotating Bright Object.md",
+      "x": -700,
+      "y": 1210,
+      "width": 420,
+      "height": 260,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "src-d1",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "src-d2",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "src-vm",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "src-d1",
+      "fromSide": "bottom",
+      "toNode": "w12",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "src-d2",
+      "fromSide": "bottom",
+      "toNode": "w17",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "src-vm",
+      "fromSide": "bottom",
+      "toNode": "platform",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "w17",
+      "fromSide": "bottom",
+      "toNode": "inc-fragment",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "w17",
+      "fromSide": "bottom",
+      "toNode": "inc-grimaldi",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "inc-fragment",
+      "fromSide": "bottom",
+      "toNode": "phenom-phosphene",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "inc-grimaldi",
+      "fromSide": "bottom",
+      "toNode": "phenom-tlp",
+      "toSide": "top"
+    },
+    {
+      "id": "e11",
+      "fromNode": "inc-grimaldi",
+      "fromSide": "right",
+      "toNode": "loc-grimaldi",
+      "toSide": "left"
+    },
+    {
+      "id": "e12",
+      "fromNode": "inc-fragment",
+      "fromSide": "right",
+      "toNode": "loc-translunar",
+      "toSide": "left"
+    },
+    {
+      "id": "e13",
+      "fromNode": "w17",
+      "fromSide": "bottom",
+      "toNode": "inc-rotating",
+      "toSide": "top",
+      "label": "identified as S-IVB"
+    },
+    {
+      "id": "e14",
+      "fromNode": "inc-rotating",
+      "fromSide": "right",
+      "toNode": "loc-translunar",
+      "toSide": "left"
+    }
+  ]
+}

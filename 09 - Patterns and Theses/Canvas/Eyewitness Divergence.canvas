@@ -1,0 +1,213 @@
+{
+  "nodes": [
+    {
+      "id": "thesis",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - Eyewitness Divergence in Transient Aerial Events.md",
+      "x": -150,
+      "y": -540,
+      "width": 520,
+      "height": 300,
+      "color": "1"
+    },
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "## Eyewitness divergence\n\nMultiple eyewitnesses to the same transient aerial event routinely produce materially different descriptions of size, shape, distance, and behavior.\n\nThis ==does not require any unusual property of the object==; it matches the cognitive-psychology and aviation-safety literature on eyewitness reliability.\n\nThe 2023-09 LiDAR Convoy is the cleanest example in the collection.",
+      "x": -900,
+      "y": -540,
+      "width": 600,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "inc-lidar",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
+      "x": -150,
+      "y": -120,
+      "width": 520,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "loc",
+      "type": "file",
+      "file": "04 - Locations/Location - CONUS LiDAR Test Site.md",
+      "x": 480,
+      "y": -90,
+      "width": 360,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "phenom",
+      "type": "file",
+      "file": "08 - Phenomenology/Phenom - Linear Object with Bright Light.md",
+      "x": 480,
+      "y": 140,
+      "width": 360,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "wA",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - LiDAR Test Convoy Witness A.md",
+      "x": -700,
+      "y": 240,
+      "width": 380,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "srcA",
+      "type": "file",
+      "file": "03 - Sources/Source - FBI Serial 4 Redacted.md",
+      "x": -700,
+      "y": 480,
+      "width": 380,
+      "height": 180,
+      "color": "7"
+    },
+    {
+      "id": "descA",
+      "type": "text",
+      "text": "## Witness A (Serial 4)\n\nDrone pilot, 10-15 flight hours.\n\n==Linear, metallic gray== object; bright white light with visible bands; ==1-2 Blackhawk lengths==; ~5000 ft AGL; ==close==; 5-10 sec; light went out and object vanished.\n\nSelf-attribution: ==unresolved object==.",
+      "x": -700,
+      "y": 700,
+      "width": 380,
+      "height": 300,
+      "color": "6"
+    },
+    {
+      "id": "wB",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - LiDAR Test Convoy Witness B.md",
+      "x": 160,
+      "y": 240,
+      "width": 380,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "srcB",
+      "type": "file",
+      "file": "03 - Sources/Source - FBI Serial 5 Redacted.md",
+      "x": 160,
+      "y": 480,
+      "width": 380,
+      "height": 180,
+      "color": "7"
+    },
+    {
+      "id": "descB",
+      "type": "text",
+      "text": "## Witness B (Serial 5)\n\nConvoy lead driver, F-150.\n\n==Point of light== only, no shape detail; stationary then moved right; ==10-20 miles away==; ~10 sec; same size throughout; no vehicle interference.\n\nSelf-attribution: ==probable meteor==.",
+      "x": 160,
+      "y": 700,
+      "width": 380,
+      "height": 300,
+      "color": "6"
+    },
+    {
+      "id": "takeaway",
+      "type": "text",
+      "text": "## Takeaway\n\nTreat ==divergence as the default expectation== for multi-witness transient events, not as evidence of cover-up or of any single witness being unreliable.\n\nWhere witnesses converge, the convergence is informative; where they diverge, the divergence is informative about the difficulty of the observation, not necessarily about the object.",
+      "x": -150,
+      "y": 1060,
+      "width": 660,
+      "height": 260,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "inc-lidar",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "inc-lidar",
+      "fromSide": "right",
+      "toNode": "loc",
+      "toSide": "left"
+    },
+    {
+      "id": "e3",
+      "fromNode": "inc-lidar",
+      "fromSide": "right",
+      "toNode": "phenom",
+      "toSide": "left"
+    },
+    {
+      "id": "e4",
+      "fromNode": "inc-lidar",
+      "fromSide": "bottom",
+      "toNode": "wA",
+      "toSide": "top",
+      "label": "Serial 4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "inc-lidar",
+      "fromSide": "bottom",
+      "toNode": "wB",
+      "toSide": "top",
+      "label": "Serial 5"
+    },
+    {
+      "id": "e6",
+      "fromNode": "wA",
+      "fromSide": "bottom",
+      "toNode": "srcA",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "wB",
+      "fromSide": "bottom",
+      "toNode": "srcB",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "srcA",
+      "fromSide": "bottom",
+      "toNode": "descA",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "srcB",
+      "fromSide": "bottom",
+      "toNode": "descB",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "descA",
+      "fromSide": "right",
+      "toNode": "descB",
+      "toSide": "left",
+      "label": "same event, divergent accounts"
+    },
+    {
+      "id": "e11",
+      "fromNode": "descA",
+      "fromSide": "bottom",
+      "toNode": "takeaway",
+      "toSide": "left"
+    },
+    {
+      "id": "e12",
+      "fromNode": "descB",
+      "fromSide": "bottom",
+      "toNode": "takeaway",
+      "toSide": "right"
+    }
+  ]
+}

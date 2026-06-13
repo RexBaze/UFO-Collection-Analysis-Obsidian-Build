@@ -1,0 +1,11 @@
+# OS / sync junk
+.fuse_hidden*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian local UI state (keep the rest of .obsidian so settings travel with the vault)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/

@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"thesis","type":"file","file":"09 - Patterns and Theses/Thesis - Russian Activity Drives Mediterranean Observations.md","x":-200,"y":-700,"width":520,"height":260,"color":"1"},
+		{"id":"legend","type":"text","text":"## Russian activity drives Mediterranean observations\n\nThe Eastern Mediterranean cluster of U.S. military UAP observations correlates with ==Russian Navy and aviation activity==, especially the 2015-2017 Russian Syria deployment and recurring KCTG (Kuznetsov Carrier Task Group) operations.\n\n- U.S. P-8A patrols in the Eastern Med were specifically tasked to monitor Russian naval and air activity.\n- Observations cluster along Russian transit routes and near Russian-aligned Syrian airfields.\n- The one well-documented case is assessed in-source as Russian KCTG missile activity.\n\nConfidence: MODERATE. Small sample; strong single case.","x":-1380,"y":-700,"width":660,"height":540,"color":"2"},
+		{"id":"hdr-anchor","type":"text","text":"## Anchor case (assessed conventional)","x":-820,"y":-60,"width":420,"height":90,"color":"3"},
+		{"id":"hdr-skeletons","type":"text","text":"## Mediterranean observations pending read","x":200,"y":-60,"width":420,"height":90,"color":"3"},
+		{"id":"loc-em","type":"file","file":"04 - Locations/Location - Eastern Mediterranean.md","x":-1380,"y":120,"width":360,"height":180,"color":"4"},
+		{"id":"loc-latakia","type":"file","file":"04 - Locations/Location - Latakia.md","x":-1380,"y":340,"width":360,"height":180,"color":"4"},
+		{"id":"loc-syria","type":"file","file":"04 - Locations/Location - Syria.md","x":-1380,"y":560,"width":360,"height":180,"color":"4"},
+		{"id":"inc-latakia","type":"file","file":"02 - Incidents/Incident - 2016-11-18 Latakia P-8A.md","x":-820,"y":120,"width":420,"height":240,"color":"5"},
+		{"id":"src-d55","type":"file","file":"03 - Sources/Source - DOW-UAP-D55 Syria November 2016.md","x":-820,"y":400,"width":420,"height":180,"color":"7"},
+		{"id":"plat-p8","type":"file","file":"05 - Platforms and Units/Platform - P-8A Poseidon.md","x":-820,"y":620,"width":420,"height":170,"color":"4"},
+		{"id":"unit-ctg","type":"file","file":"05 - Platforms and Units/Unit - CTG 67.1.md","x":-820,"y":830,"width":420,"height":170,"color":"7"},
+		{"id":"inc-d16","type":"file","file":"02 - Incidents/Incident - 2022-07 Syria D16 SKELETON.md","x":200,"y":120,"width":380,"height":150,"color":"6"},
+		{"id":"inc-d32","type":"file","file":"02 - Incidents/Incident - 2024-10 Syria D32 SKELETON.md","x":200,"y":300,"width":380,"height":150,"color":"6"},
+		{"id":"inc-d74","type":"file","file":"02 - Incidents/Incident - 2023-11 Syria D74 SKELETON.md","x":200,"y":480,"width":380,"height":150,"color":"6"},
+		{"id":"inc-d54","type":"file","file":"02 - Incidents/Incident - D54 Mediterranean Sea SKELETON.md","x":200,"y":660,"width":380,"height":150,"color":"6"},
+		{"id":"inc-d25","type":"file","file":"02 - Incidents/Incident - 2024-01 Greece D25 SKELETON.md","x":620,"y":120,"width":380,"height":150,"color":"6"},
+		{"id":"inc-d33","type":"file","file":"02 - Incidents/Incident - 2023-10 Greece D33 D35 SKELETON.md","x":620,"y":300,"width":380,"height":150,"color":"6"},
+		{"id":"loc-greece","type":"file","file":"04 - Locations/Location - Greece.md","x":620,"y":480,"width":380,"height":170,"color":"4"},
+		{"id":"analysis","type":"text","text":"## Reading these skeletons\n\nIf the thesis holds, the unread Syria and Greece reports should show:\n\n- Geographic clustering along Russian naval transit and air-operations corridors\n- Object profiles consistent with missiles, drones, or fast surface contacts tied to Russian or Russian-aligned activity\n- Timing correlated with KCTG transits and elevated Syria operations\n\n==Disconfirming evidence==: the small number of Mediterranean observations makes statistical inference weak. A cluster with no plausible Russian activity nearby would weaken the thesis.","x":380,"y":1000,"width":480,"height":460,"color":"6"},
+		{"id":"kctg","type":"text","text":"## KCTG context\n\nThe Kuznetsov Carrier Task Group deployed to the Eastern Mediterranean in 2016 to support Russian operations in Syria.\n\nThe 18 Nov 2016 P-8A observation, 55 NM NW of Latakia, was an unidentified low, fast (~500 kt) sea-skim object passing between the Russian INGUL ARS and an unidentified vessel.\n\n==The same document that flags it as a UAP observation assesses it as standard KCTG missile activity.== The only 'unknown' was the precise launch point and missile type, not the origin.","x":-300,"y":400,"width":360,"height":400,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"thesis","fromSide":"bottom","toNode":"hdr-anchor","toSide":"top"},
+		{"id":"e2","fromNode":"thesis","fromSide":"bottom","toNode":"hdr-skeletons","toSide":"top"},
+		{"id":"e3","fromNode":"hdr-anchor","fromSide":"bottom","toNode":"inc-latakia","toSide":"top"},
+		{"id":"e4","fromNode":"inc-latakia","fromSide":"bottom","toNode":"src-d55","toSide":"top"},
+		{"id":"e5","fromNode":"src-d55","fromSide":"bottom","toNode":"plat-p8","toSide":"top"},
+		{"id":"e6","fromNode":"plat-p8","fromSide":"bottom","toNode":"unit-ctg","toSide":"top"},
+		{"id":"e7","fromNode":"inc-latakia","fromSide":"left","toNode":"loc-em","toSide":"right"},
+		{"id":"e8","fromNode":"inc-latakia","fromSide":"right","toNode":"kctg","toSide":"top"},
+		{"id":"e9","fromNode":"hdr-skeletons","fromSide":"bottom","toNode":"inc-d16","toSide":"top"},
+		{"id":"e10","fromNode":"inc-d16","fromSide":"bottom","toNode":"inc-d32","toSide":"top"},
+		{"id":"e11","fromNode":"inc-d32","fromSide":"bottom","toNode":"inc-d74","toSide":"top"},
+		{"id":"e12","fromNode":"inc-d74","fromSide":"bottom","toNode":"inc-d54","toSide":"top"},
+		{"id":"e13","fromNode":"hdr-skeletons","fromSide":"bottom","toNode":"inc-d25","toSide":"top"},
+		{"id":"e14","fromNode":"inc-d25","fromSide":"bottom","toNode":"inc-d33","toSide":"top"},
+		{"id":"e15","fromNode":"inc-d33","fromSide":"bottom","toNode":"loc-greece","toSide":"top"},
+		{"id":"e16","fromNode":"kctg","fromSide":"right","toNode":"analysis","toSide":"left"}
+	]
+}

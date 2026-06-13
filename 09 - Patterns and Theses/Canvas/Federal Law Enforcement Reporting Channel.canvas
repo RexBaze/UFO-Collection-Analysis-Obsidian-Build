@@ -1,0 +1,283 @@
+{
+  "nodes": [
+    {
+      "id": "thesis",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - Federal Law Enforcement as a UAP Reporting Channel.md",
+      "x": 0,
+      "y": -560,
+      "width": 520,
+      "height": 300,
+      "color": "1"
+    },
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "## Federal law enforcement as a UAP reporting channel\n\nTranche 3 establishes the ==FBI and federal special agents== as a distinct, credible UAP reporting and investigative channel parallel to the military MISREP pipeline.\n\nThree case strands:\n- Colorado Springs (FD-302, forensic sketch, ICA analysis)\n- Western U.S. Event (six federal agents as witnesses)\n- Northeastern U.S. orbs (agents personally observed)\n\nStill testimony-dominated; no instrument-grade data yet.",
+      "x": -820,
+      "y": -560,
+      "width": 620,
+      "height": 440,
+      "color": "2"
+    },
+    {
+      "id": "inc-colo",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2022-02-15 Colorado Springs Cheyenne Mountain.md",
+      "x": -900,
+      "y": 0,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "inc-west",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2023-10 Western US Event Orbs Launching Orbs.md",
+      "x": -380,
+      "y": 0,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "inc-ne24",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2024 Northeastern US Plasma Orbs.md",
+      "x": 140,
+      "y": 0,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "inc-ne26",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2026 Northeastern US Red Orb Sighting.md",
+      "x": 660,
+      "y": 0,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "src-fd302",
+      "type": "file",
+      "file": "03 - Sources/Source - FBI-UAP-D001 Colorado Springs FD-302 2022.md",
+      "x": -900,
+      "y": 280,
+      "width": 400,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "src-ica",
+      "type": "file",
+      "file": "03 - Sources/Source - ICA-UAP-D001 Colorado Springs Analysis.md",
+      "x": -900,
+      "y": 520,
+      "width": 400,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "src-west",
+      "type": "file",
+      "file": "03 - Sources/Source - DOW-UAP-D077 Western US Event AARO Analysis.md",
+      "x": -380,
+      "y": 280,
+      "width": 400,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "src-ne24",
+      "type": "file",
+      "file": "03 - Sources/Source - FBI-UAP-D004-D008 Northeastern US 2024 EC Series.md",
+      "x": 140,
+      "y": 280,
+      "width": 400,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "src-ne26",
+      "type": "file",
+      "file": "03 - Sources/Source - FBI-UAP-D009-D010 Northeastern US 2026 Orb Interviews.md",
+      "x": 660,
+      "y": 280,
+      "width": 400,
+      "height": 200,
+      "color": "7"
+    },
+    {
+      "id": "w-fc",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - Fort Carson Soldiers.md",
+      "x": -900,
+      "y": 760,
+      "width": 400,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "w-west",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - Western US Federal Agents.md",
+      "x": -380,
+      "y": 520,
+      "width": 400,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "w-ne",
+      "type": "file",
+      "file": "07 - Witnesses/Witness - Northeastern US Private Witnesses.md",
+      "x": 400,
+      "y": 520,
+      "width": 400,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "aaro",
+      "type": "file",
+      "file": "99 - Reference/AARO Overview.md",
+      "x": 660,
+      "y": 760,
+      "width": 400,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "rel-conus",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - Domestic CONUS UAP Reporting Emerges 2021-2026.md",
+      "x": -380,
+      "y": 760,
+      "width": 400,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "note-record",
+      "type": "text",
+      "text": "## Record types in this channel\n\n==FD-302== witness interview\n==FD-1057== electronic communication\n==Forensic-sketch== unit reconstruction\n==ICA== analytic assessment\n\nFirst-hand agent observation converts a civilian report into law-enforcement observation.",
+      "x": 1120,
+      "y": 0,
+      "width": 420,
+      "height": 480,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "t1",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "inc-colo",
+      "toSide": "top"
+    },
+    {
+      "id": "t2",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "inc-west",
+      "toSide": "top"
+    },
+    {
+      "id": "t3",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "inc-ne24",
+      "toSide": "top"
+    },
+    {
+      "id": "t4",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "inc-ne26",
+      "toSide": "top"
+    },
+    {
+      "id": "s1",
+      "fromNode": "inc-colo",
+      "fromSide": "bottom",
+      "toNode": "src-fd302",
+      "toSide": "top"
+    },
+    {
+      "id": "s2",
+      "fromNode": "src-fd302",
+      "fromSide": "bottom",
+      "toNode": "src-ica",
+      "toSide": "top"
+    },
+    {
+      "id": "s3",
+      "fromNode": "inc-west",
+      "fromSide": "bottom",
+      "toNode": "src-west",
+      "toSide": "top"
+    },
+    {
+      "id": "s4",
+      "fromNode": "inc-ne24",
+      "fromSide": "bottom",
+      "toNode": "src-ne24",
+      "toSide": "top"
+    },
+    {
+      "id": "s5",
+      "fromNode": "inc-ne26",
+      "fromSide": "bottom",
+      "toNode": "src-ne26",
+      "toSide": "top"
+    },
+    {
+      "id": "w1",
+      "fromNode": "inc-colo",
+      "fromSide": "right",
+      "toNode": "w-fc",
+      "toSide": "top",
+      "label": "Fort Carson soldiers"
+    },
+    {
+      "id": "w2",
+      "fromNode": "src-west",
+      "fromSide": "bottom",
+      "toNode": "w-west",
+      "toSide": "top",
+      "label": "6 federal agents"
+    },
+    {
+      "id": "w3",
+      "fromNode": "src-ne24",
+      "fromSide": "bottom",
+      "toNode": "w-ne",
+      "toSide": "top"
+    },
+    {
+      "id": "w4",
+      "fromNode": "src-ne26",
+      "fromSide": "bottom",
+      "toNode": "w-ne",
+      "toSide": "right"
+    },
+    {
+      "id": "c1",
+      "fromNode": "thesis",
+      "fromSide": "left",
+      "toNode": "rel-conus",
+      "toSide": "top"
+    },
+    {
+      "id": "c2",
+      "fromNode": "inc-ne26",
+      "fromSide": "right",
+      "toNode": "aaro",
+      "toSide": "top"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "nodes": [
+    {
+      "id": "thesis",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - Historical Continuity of Air Force Position 1952 to 2026.md",
+      "x": -200,
+      "y": -600,
+      "width": 500,
+      "height": 280,
+      "color": "1"
+    },
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "## Historical continuity 1952 to 2026\n\nThe Air Force institutional position on UAP has been ==remarkably stable for 70+ years==:\n\n- Phenomena are real\n- Observers are credible\n- Foreign or ET origin is not supported\n- Sustained attention warranted\n- No premature conclusion\n\nThis canvas shows the canonical incidents and source documents that anchor each decade.",
+      "x": -1300,
+      "y": -600,
+      "width": 600,
+      "height": 500,
+      "color": "2"
+    },
+    {
+      "id": "era1950s",
+      "type": "text",
+      "text": "## 1947-1955\nProject Sign, Grudge, Blue Book era. Foundational case record.",
+      "x": -900,
+      "y": 0,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "era1980s",
+      "type": "text",
+      "text": "## 1980s-1990s\nState Department channel reports of unidentified high-altitude/high-speed activity.",
+      "x": -200,
+      "y": 0,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "era2010s",
+      "type": "text",
+      "text": "## 2014-2019\nNimitz/Tic Tac era (not in this collection). Navy publishes mandatory reporting guidance 2019.",
+      "x": 500,
+      "y": 0,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "era2020s",
+      "type": "text",
+      "text": "## 2020-2026\nAARO era. Bulk MDR declassification. CENTCOM cluster.",
+      "x": 1200,
+      "y": 0,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "samford",
+      "type": "file",
+      "file": "03 - Sources/Source - 1952 Samford Memorandum Flying Saucers.md",
+      "x": -900,
+      "y": 200,
+      "width": 400,
+      "height": 220,
+      "color": "7"
+    },
+    {
+      "id": "png",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1985-01-24 Papua New Guinea Overflights.md",
+      "x": -200,
+      "y": 200,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "kaz",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1994-01-27 Kazakhstan 747SP.md",
+      "x": -200,
+      "y": 480,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "latakia",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2016-11-18 Latakia P-8A.md",
+      "x": 500,
+      "y": 200,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "cluster2020",
+      "type": "file",
+      "file": "09 - Patterns and Theses/Thesis - 2020 Arabian Gulf Cluster.md",
+      "x": 1200,
+      "y": 200,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "shaddadi",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2023-02-21 Shaddadi F-15E.md",
+      "x": 1200,
+      "y": 480,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "lidar",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2023-09 LiDAR Convoy.md",
+      "x": 600,
+      "y": 480,
+      "width": 400,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "d50",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2025-04-10 INDOPACOM Tearline.md",
+      "x": 1200,
+      "y": 760,
+      "width": 400,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "djibouti",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2025 Djibouti D8 Two White-Hot UAPs.md",
+      "x": 700,
+      "y": 760,
+      "width": 400,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "samford-quote",
+      "type": "text",
+      "text": "## 1952 (Samford)\n\n==Credible observers are reporting the incredible.==\n\n==The Air Force views the flying saucers as a threat only because they are not understood and they are sufficiently frequent.==\n\n==The possibility [of man-made or controlled origin] was remote and not to be seriously considered.==",
+      "x": -900,
+      "y": 500,
+      "width": 400,
+      "height": 280,
+      "color": "6"
+    },
+    {
+      "id": "aaro-quote",
+      "type": "text",
+      "text": "## 2024-2026 (AARO public posture)\n\nReal phenomenon. Frequent enough to warrant institutional attention. Correlated radar and pilot observation. ==No demonstrated foreign or hostile origin.== No resolved explanation. Sustained collection effort.\n\nFunctionally identical to 1952 Samford position.",
+      "x": 1200,
+      "y": 1000,
+      "width": 400,
+      "height": 280,
+      "color": "6"
+    },
+    {
+      "id": "timeline-ref",
+      "type": "file",
+      "file": "99 - Reference/Timeline 1944-2026.md",
+      "x": -600,
+      "y": 1000,
+      "width": 350,
+      "height": 150,
+      "color": "4"
+    },
+    {
+      "id": "era1960s",
+      "type": "text",
+      "text": "## 1960s-1970s\nCIA-channel foreign sightings collected through embassy and station reporting.",
+      "x": -1300,
+      "y": 150,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "era2000s",
+      "type": "text",
+      "text": "## 2000s\nForeign civil-aviation and airport disc reports reach U.S. channels.",
+      "x": -1300,
+      "y": 560,
+      "width": 300,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "himalayan",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 1968-03 Himalayan Border UAP Wave.md",
+      "x": -1300,
+      "y": 300,
+      "width": 380,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "zimbabwe",
+      "type": "file",
+      "file": "02 - Incidents/Incident - 2008-07-02 Harare Zimbabwe Disc.md",
+      "x": -1300,
+      "y": 710,
+      "width": 380,
+      "height": 220,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "era1950s",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "era1980s",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "era2010s",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "thesis",
+      "fromSide": "bottom",
+      "toNode": "era2020s",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "era1950s",
+      "fromSide": "bottom",
+      "toNode": "samford",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "era1980s",
+      "fromSide": "bottom",
+      "toNode": "png",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "png",
+      "fromSide": "bottom",
+      "toNode": "kaz",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "era2010s",
+      "fromSide": "bottom",
+      "toNode": "latakia",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "era2020s",
+      "fromSide": "bottom",
+      "toNode": "cluster2020",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "cluster2020",
+      "fromSide": "bottom",
+      "toNode": "shaddadi",
+      "toSide": "top"
+    },
+    {
+      "id": "e11",
+      "fromNode": "latakia",
+      "fromSide": "bottom",
+      "toNode": "lidar",
+      "toSide": "top"
+    },
+    {
+      "id": "e12",
+      "fromNode": "shaddadi",
+      "fromSide": "bottom",
+      "toNode": "d50",
+      "toSide": "top"
+    },
+    {
+      "id": "e13",
+      "fromNode": "lidar",
+      "fromSide": "bottom",
+      "toNode": "djibouti",
+      "toSide": "top"
+    },
+    {
+      "id": "e14",
+      "fromNode": "samford",
+      "fromSide": "bottom",
+      "toNode": "samford-quote",
+      "toSide": "top"
+    },
+    {
+      "id": "e15",
+      "fromNode": "d50",
+      "fromSide": "bottom",
+      "toNode": "aaro-quote",
+      "toSide": "top"
+    },
+    {
+      "id": "e16",
+      "fromNode": "samford-quote",
+      "fromSide": "right",
+      "toNode": "aaro-quote",
+      "toSide": "left",
+      "label": "identical institutional position 70 years apart"
+    },
+    {
+      "id": "h1",
+      "fromNode": "thesis",
+      "fromSide": "left",
+      "toNode": "era1960s",
+      "toSide": "top"
+    },
+    {
+      "id": "h2",
+      "fromNode": "era1960s",
+      "fromSide": "bottom",
+      "toNode": "himalayan",
+      "toSide": "top"
+    },
+    {
+      "id": "h3",
+      "fromNode": "himalayan",
+      "fromSide": "bottom",
+      "toNode": "era2000s",
+      "toSide": "top"
+    },
+    {
+      "id": "h4",
+      "fromNode": "era2000s",
+      "fromSide": "bottom",
+      "toNode": "zimbabwe",
+      "toSide": "top"
+    }
+  ]
+}

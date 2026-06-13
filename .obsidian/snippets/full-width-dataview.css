@@ -1,0 +1,23 @@
+/* 1) Remove the max-width cap in Reading view */
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 2) Remove the max-width cap in Live Preview / Editor */
+.markdown-source-view.is-readable-line-width .cm-contentContainer,
+.markdown-source-view.is-readable-line-width .cm-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 3) Make Dataview tables use full available width */
+.dataview.table-view-table {
+  width: 100% !important;
+}
+
+/* 4) Keep wide tables scrollable (so they don't break layout) */
+.dataview.table-view-table {
+  display: block;
+  overflow-x: auto;
+}

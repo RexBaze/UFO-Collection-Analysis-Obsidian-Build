@@ -17,7 +17,7 @@ date_of_document:: 2022-07
 
 ## Summary
 
-Source document underlying [[Incident - 2022-07 Syria D16]] (event dated 2022-07), an observation in Syria. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2022-07 Syria D16]] (event dated 2022-07), an observation in Syria.
 
 ## Related incidents
 

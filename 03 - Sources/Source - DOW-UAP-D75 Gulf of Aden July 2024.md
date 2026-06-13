@@ -17,7 +17,7 @@ date_of_document:: 2024-07
 
 ## Summary
 
-Source document underlying [[Incident - 2024-07 Gulf of Aden D75]] (event dated 2024-07), an observation in Gulf of Aden. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2024-07 Gulf of Aden D75]] (event dated 2024-07), an observation in Gulf of Aden.
 
 ## Related incidents
 

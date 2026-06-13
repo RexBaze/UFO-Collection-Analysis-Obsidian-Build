@@ -18,7 +18,7 @@ date_of_document:: 2020-08-27
 
 ## Summary
 
-Source document underlying [[Incident - 2020-08 Persian Gulf D61]] (event dated 2020-08-27), an observation in Persian Gulf. The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-08 Persian Gulf D61]] (event dated 2020-08-27), an observation in Persian Gulf. The associated incident is currently assessed **unresolved**.
 
 ## Key extractions
 

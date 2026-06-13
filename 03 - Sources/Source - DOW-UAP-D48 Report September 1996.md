@@ -17,7 +17,7 @@ date_of_document:: 1996-09
 
 ## Summary
 
-Source document underlying [[Incident - 1996-09 D48]] (event dated 1996-09). This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 1996-09 D48]] (event dated 1996-09).
 
 ## Related incidents
 

@@ -17,7 +17,7 @@ date_of_document:: 2023
 
 ## Summary
 
-Source document underlying [[Incident - 2023 Japan D42 Range Fouler]] (event dated 2023), an observation in Japan. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2023 Japan D42 Range Fouler]] (event dated 2023), an observation in Japan.
 
 ## Related incidents
 

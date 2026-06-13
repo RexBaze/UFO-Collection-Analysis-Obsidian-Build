@@ -17,7 +17,7 @@ date_of_document:: 2024
 
 ## Summary
 
-Source document underlying [[Incident - 2024 East China Sea D28]] (event dated 2024), an observation in East China Sea. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2024 East China Sea D28]] (event dated 2024), an observation in East China Sea.
 
 ## Related incidents
 

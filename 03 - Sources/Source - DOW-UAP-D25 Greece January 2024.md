@@ -17,7 +17,7 @@ date_of_document:: 2024-01
 
 ## Summary
 
-Source document underlying [[Incident - 2024-01 Greece D25]] (event dated 2024-01), an observation in Greece. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2024-01 Greece D25]] (event dated 2024-01), an observation in Greece.
 
 ## Related incidents
 

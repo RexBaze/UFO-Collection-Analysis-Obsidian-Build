@@ -17,7 +17,7 @@ date_of_document::
 
 ## Summary
 
-Source document underlying [[Incident - D54 Mediterranean Sea]], an observation in Eastern Mediterranean. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - D54 Mediterranean Sea]], an observation in Eastern Mediterranean.
 
 ## Related incidents
 

@@ -17,7 +17,7 @@ date_of_document:: 2022-05
 
 ## Summary
 
-Source document underlying [[Incident - 2022-05 Iraq D12]] (event dated 2022-05), an observation in Iraq. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2022-05 Iraq D12]] (event dated 2022-05), an observation in Iraq.
 
 ## Related incidents
 

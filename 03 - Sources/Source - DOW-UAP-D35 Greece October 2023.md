@@ -17,7 +17,7 @@ date_of_document:: 2023-10
 
 ## Summary
 
-Source document underlying [[Incident - 2023-10 Greece D33 D35]] (event dated 2023-10), an observation in Greece. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2023-10 Greece D33 D35]] (event dated 2023-10), an observation in Greece.
 
 ## Related incidents
 

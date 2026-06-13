@@ -17,7 +17,7 @@ date_of_document:: 2023-03
 
 ## Summary
 
-Source document underlying [[Incident - 2023-03 Pacific Time Zone D51]] (event dated 2023-03), an observation in INDOPACOM AOR. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2023-03 Pacific Time Zone D51]] (event dated 2023-03), an observation in INDOPACOM AOR.
 
 ## Related incidents
 

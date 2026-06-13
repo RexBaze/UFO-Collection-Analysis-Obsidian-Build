@@ -17,7 +17,7 @@ date_of_document:: 2000-02
 
 ## Summary
 
-Source document underlying [[Incident - 2000-02 D49 Launch Summary]] (event dated 2000-02). This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2000-02 D49 Launch Summary]] (event dated 2000-02).
 
 ## Related incidents
 

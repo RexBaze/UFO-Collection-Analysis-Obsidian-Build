@@ -18,7 +18,7 @@ date_of_document:: 2020-11-02
 
 ## Summary
 
-Source document underlying [[Incident - 2020-11 Iran D64]] (event dated 2020-11-02), an observation in Iran. The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-11 Iran D64]] (event dated 2020-11-02), an observation in Iran. The associated incident is currently assessed **unresolved**.
 
 ## Key extractions
 

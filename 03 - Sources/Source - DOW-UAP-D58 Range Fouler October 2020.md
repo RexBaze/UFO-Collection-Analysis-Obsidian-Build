@@ -18,7 +18,7 @@ date_of_document:: 2020-10-27
 
 ## Summary
 
-Source document underlying [[Incident - 2020-10 D58 Range Fouler]] (event dated 2020-10-27), an observation in Middle East (CENTCOM AOR; specific location redacted). The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-10 D58 Range Fouler]] (event dated 2020-10-27), an observation in Middle East (CENTCOM AOR; specific location redacted). The associated incident is currently assessed **unresolved**.
 
 ## Key extractions
 

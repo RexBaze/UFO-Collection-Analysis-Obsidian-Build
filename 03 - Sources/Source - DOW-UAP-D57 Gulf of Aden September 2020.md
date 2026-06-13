@@ -18,7 +18,7 @@ date_of_document:: 2020-09-04
 
 ## Summary
 
-Source document underlying [[Incident - 2020-09 Gulf of Aden D57]] (event dated 2020-09-04), an observation in Gulf of Aden. The associated incident is currently assessed **unresolved**. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-09 Gulf of Aden D57]] (event dated 2020-09-04), an observation in Gulf of Aden. The associated incident is currently assessed **unresolved**.
 
 ## Key extractions
 

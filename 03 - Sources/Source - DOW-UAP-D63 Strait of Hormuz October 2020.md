@@ -17,7 +17,7 @@ date_of_document:: 2020-10
 
 ## Summary
 
-Source document underlying [[Incident - 2020-10 Strait of Hormuz D63]] (event dated 2020-10), an observation in Strait of Hormuz. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2020-10 Strait of Hormuz D63]] (event dated 2020-10), an observation in Strait of Hormuz.
 
 ## Related incidents
 

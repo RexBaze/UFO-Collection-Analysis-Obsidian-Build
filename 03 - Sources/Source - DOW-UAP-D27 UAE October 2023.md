@@ -17,7 +17,7 @@ date_of_document:: 2023-10
 
 ## Summary
 
-Source document underlying [[Incident - 2023-10 UAE D23 D27]] (event dated 2023-10), an observation in United Arab Emirates. This note is a scaffold; replace this paragraph with a one-paragraph description of the document once the PDF is reviewed.
+Source document underlying [[Incident - 2023-10 UAE D23 D27]] (event dated 2023-10), an observation in United Arab Emirates.
 
 ## Related incidents
 
